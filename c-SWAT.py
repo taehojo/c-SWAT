@@ -13,9 +13,10 @@ from script.data_processing import load_data
 from sklearn.model_selection import train_test_split
 
 def main(csv_file, module_file, n_folds=5, n_batch_size=32, n_epochs=200):
+    _, _, _, module = load_data(csv_file, module_file, 0)
     for i in range(len(module)):
         print("iteration_no=", i, " / loocv_module=", module[i])
-        X, y, N_in = load_data(csv_file, module_file, i)
+        X, y, N_in, _ = load_data(csv_file, module_file, i)
         print(f"Number of input: {N_in}")
 
         kfold = KFold(n_splits=n_folds, shuffle=True)
