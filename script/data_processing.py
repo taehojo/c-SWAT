@@ -17,4 +17,4 @@ def load_data(csv_file, module_file, iteration_number):
     x = x_csv.iloc[:,]
     y = y_csv.to_numpy()
     X = x.values.reshape(x.shape[0], x.shape[1], 1)
-    return X, y, N_in
+    return X, y, N_in, module
