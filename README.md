@@ -1,4 +1,4 @@
-# c-SWAT: Circular-Sliding Window Association Test for Feature Selection
+# c-SWAT: Circular-Sliding Window Association Test 
 
 ## Overview
 
