@@ -1,5 +1,6 @@
 import sys
 import re
+import csv
 
 def extract_modified_accuracies_from_file(filename, column_names):
     accuracies = {col: [] for col in column_names}
@@ -18,24 +19,27 @@ def extract_modified_accuracies_from_file(filename, column_names):
     return accuracies
 
 if __name__ == "__main__":
-    # Read input arguments
     head_file, wgcna_file, classes_file, output_file = sys.argv[1], sys.argv[2], sys.argv[3], sys.argv[4]
     
-    # Read head file
     with open(head_file, 'r') as f:
         column_names = f.readline().strip().split(',')
     
-    # Extract accuracies
     wgcna_accuracies = extract_modified_accuracies_from_file(wgcna_file, column_names)
     classes_accuracies = extract_modified_accuracies_from_file(classes_file, column_names)
 
-    # Calculate average accuracies
-    average_accuracies = {}
+    results = []
     for col in column_names:
-        all_accuracies = wgcna_accuracies[col] + classes_accuracies[col]
-        average_accuracies[col] = sum(all_accuracies) / len(all_accuracies) if all_accuracies else "None"
+        wgcna_avg = sum(wgcna_accuracies[col]) / len(wgcna_accuracies[col]) if wgcna_accuracies[col] else None
+        classes_avg = sum(classes_accuracies[col]) / len(classes_accuracies[col]) if classes_accuracies[col] else None
+        overall_avg = None
+        inverse_avg = None
+        if wgcna_avg is not None and classes_avg is not None:
+            overall_avg = (wgcna_avg + classes_avg) / 2
+            inverse_avg = 1 - overall_avg
+        results.append([wgcna_avg, classes_avg, overall_avg, inverse_avg])
     
-    # Write to output file
-    with open(output_file, 'w') as f:
-        for col, avg in average_accuracies.items():
-            f.write(f"{col}: {avg}\n")
+    with open(output_file, 'w', newline='') as f:
+        writer = csv.writer(f)
+        writer.writerow(['WGCNA Accuracy', 'Classes Accuracy', 'Average Accuracy', '1 - Average Accuracy'])
+        for col, row in zip(column_names, results):
+            writer.writerow([col] + row)
