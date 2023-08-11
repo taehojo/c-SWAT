@@ -18,6 +18,17 @@ def extract_modified_accuracies_from_file(filename, column_names):
                             accuracies[col].append(float(match.group(1)))
     return accuracies
 
+def compute_additional_columns(row):
+    base_value = 0.6703050608358314
+    
+    fifth_col = base_value - row[0] if row[0] is not None else None
+    sixth_col = base_value - row[1] if row[1] is not None else None
+    seventh_col = None
+    if fifth_col is not None and sixth_col is not None:
+        seventh_col = (fifth_col + sixth_col) / 2
+        
+    return fifth_col, sixth_col, seventh_col
+
 if __name__ == "__main__":
     head_file, wgcna_file, classes_file, output_file = sys.argv[1], sys.argv[2], sys.argv[3], sys.argv[4]
     
@@ -36,10 +47,11 @@ if __name__ == "__main__":
         if wgcna_avg is not None and classes_avg is not None:
             overall_avg = (wgcna_avg + classes_avg) / 2
             inverse_avg = 1 - overall_avg
-        results.append([wgcna_avg, classes_avg, overall_avg, inverse_avg])
-    
+        fifth_col, sixth_col, seventh_col = compute_additional_columns([wgcna_avg, classes_avg])
+        results.append([wgcna_avg, classes_avg, overall_avg, inverse_avg, fifth_col, sixth_col, seventh_col])
+
     with open(output_file, 'w', newline='') as f:
         writer = csv.writer(f)
-        writer.writerow(['WGCNA Accuracy', 'Classes Accuracy', 'Average Accuracy', '1 - Average Accuracy'])
+        writer.writerow(['WGCNA Accuracy', 'Classes Accuracy', 'Average Accuracy', '1 - Average Accuracy', 'Difference from 0.6703 (WGCNA)', 'Difference from 0.6703 (Classes)', 'Average Difference'])
         for col, row in zip(column_names, results):
             writer.writerow([col] + row)
