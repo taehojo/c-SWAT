@@ -76,7 +76,12 @@ def calculate_overall_accuracy(X, y):
     
     return np.mean(acc_per_fold)
 
-    
+def get_feature_value(feature, results_dict):
+    for key in results_dict:
+        if feature in key:
+            return results_dict[key]
+    return 0
+        
 # Main function
 def main(csv_file, module_file):
     results = {}
@@ -123,7 +128,12 @@ if __name__ == "__main__":
     
     # Extract all value1 and value2
     value1_list = [y_value - results1[feature_group] for feature_group in results1]
-    value2_list = [y_value - results2[feature_group] for feature_group in results1]
+    value2_list = []
+
+    for feature_group in results1:
+        # Get the average of the differences for all features in the feature_group
+        group_diff = sum([(y_value - get_feature_value(feature, results2)) for feature in ast.literal_eval(feature_group)]) / len(ast.literal_eval(feature_group))
+        value2_list.append(group_diff)
 
     # Normalize value1 and value2
     value1_min, value1_max = min(value1_list), max(value1_list)
@@ -136,4 +146,4 @@ if __name__ == "__main__":
     for idx, feature_group in enumerate(results1):
         for feature in ast.literal_eval(feature_group):
             final_value = feature_importances[feature] + 0.5 * (value1_normalized[idx] + value2_normalized[idx])
-            print(f"{feature}, {final_value:.6f}")
+            print(f"{feature},{feature_importances[feature]:.6f},{value1_list[idx]:.6f},{value2_list[idx]:.6f},{value1_normalized[idx]:.6f},{value2_normalized[idx]:.6f},{final_value:.6f}")
