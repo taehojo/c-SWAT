@@ -7,7 +7,6 @@ from sklearn.model_selection import KFold, train_test_split
 import tensorflow as tf
 from sklearn.ensemble import RandomForestClassifier
 
-# Data processing
 def load_data(csv_file, module_file, iteration_number):
     ADMC = list(pd.read_csv(csv_file, nrows=0).columns)
     with open(module_file, 'r') as file:
@@ -62,7 +61,6 @@ def calculate_overall_accuracy(X, y):
         y_train1, y_test = y[train_index], y[test_index]
         X_train, X_val, y_train, y_val = train_test_split(X_train1, y_train1, test_size=0.25, random_state=1)
 
-        # Reshape the data to 3D
         X_train = X_train.reshape(X_train.shape[0], X_train.shape[1], 1)
         X_val = X_val.reshape(X_val.shape[0], X_val.shape[1], 1)
         X_test = X_test.reshape(X_test.shape[0], X_test.shape[1], 1)
@@ -82,7 +80,6 @@ def get_feature_value(feature, results_dict):
             return results_dict[key]
     return 0
         
-# Main function
 def main(csv_file, module_file):
     results = {}
     _, _, _, module = load_data(csv_file, module_file, 0)
@@ -126,24 +123,20 @@ if __name__ == "__main__":
     print("Running for second module file...")
     results2 = main(csv_file, module_file2)
     
-    # Extract all value1 and value2
     value1_list = [y_value - results1[feature_group] for feature_group in results1]
     value2_list = []
 
     for feature_group in results1:
-        # Get the average of the differences for all features in the feature_group
         group_diff = sum([(y_value - get_feature_value(feature, results2)) for feature in ast.literal_eval(feature_group)]) / len(ast.literal_eval(feature_group))
         value2_list.append(group_diff)
 
-    # Normalize value1 and value2
     value1_min, value1_max = min(value1_list), max(value1_list)
     value2_min, value2_max = min(value2_list), max(value2_list)
 
     value1_normalized = [(v - value1_min) / (value1_max - value1_min) for v in value1_list]
     value2_normalized = [(v - value2_min) / (value2_max - value2_min) for v in value2_list]
 
-    # Print the final values
     for idx, feature_group in enumerate(results1):
         for feature in ast.literal_eval(feature_group):
-            final_value = feature_importances[feature] + 0.5 * (value1_normalized[idx] + value2_normalized[idx])
-            print(f"{feature},{feature_importances[feature]:.6f},{value1_list[idx]:.6f},{value2_list[idx]:.6f},{value1_normalized[idx]:.6f},{value2_normalized[idx]:.6f},{final_value:.6f}")
+            final_value = feature_importances[feature] + 0.5 * (value1_normalized[idx] + value2_normalized[idx])#print(f"{feature},{feature_importances[feature]:.6f},{value1_list[idx]:.6f},{value2_list[idx]:.6f},{value1_normalized[idx]:.6f},{value2_normalized[idx]:.6f},{final_value:.6f}")
+            print(f"{feature},{final_value:.6f}")
