@@ -7,15 +7,10 @@ The circular-Sliding Window Association Test (c-SWAT) is a novel deep learning a
 
 ### Execution Examples
 
-For wgcna module:
 ```bash
-python c-SWAT.py data/ADNI_norm.csv data/wgcna.txt
+python c-SWAT.py data/ADNI_norm.csv data/wgcna.txt data/classes.txt 
 ```
 
-For classes module:
-```bash
-python c-SWAT.py data/ADNI_norm.csv data/classes.txt
-```
 
 ## Contact
 
