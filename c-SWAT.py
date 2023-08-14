@@ -23,7 +23,6 @@ def load_data(csv_file, module_file, iteration_number):
     X = x.values.reshape(x.shape[0], x.shape[1], 1)
     return X, y, N_in, module
 
-# Model
 kernel_size = 5
 filters = 64
 N_hidden1 = 32
@@ -129,14 +128,12 @@ if __name__ == "__main__":
     for feature_group in results1:
         group_diff = sum([(y_value - get_feature_value(feature, results2)) for feature in ast.literal_eval(feature_group)]) / len(ast.literal_eval(feature_group))
         value2_list.append(group_diff)
-
-    value1_min, value1_max = min(value1_list), max(value1_list)
-    value2_min, value2_max = min(value2_list), max(value2_list)
-
-    value1_normalized = [(v - value1_min) / (value1_max - value1_min) for v in value1_list]
-    value2_normalized = [(v - value2_min) / (value2_max - value2_min) for v in value2_list]
+        
+    fi_min = min(feature_importances.values())
+    fi_max = max(feature_importances.values())
+    feature_importances_normalized = {feature: (imp - fi_min) / (fi_max - fi_min) for feature, imp in feature_importances.items()}
 
     for idx, feature_group in enumerate(results1):
         for feature in ast.literal_eval(feature_group):
-            final_value = feature_importances[feature] + 0.5 * (value1_normalized[idx] + value2_normalized[idx])#print(f"{feature},{feature_importances[feature]:.6f},{value1_list[idx]:.6f},{value2_list[idx]:.6f},{value1_normalized[idx]:.6f},{value2_normalized[idx]:.6f},{final_value:.6f}")
+            final_value = feature_importances_normalized[feature] - 0.5 * (value1_list[idx] + value2_list[idx])
             print(f"{feature},{final_value:.6f}")
