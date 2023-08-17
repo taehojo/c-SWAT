@@ -5,6 +5,10 @@
 The circular-Sliding Window Association Test (c-SWAT) is a novel deep learning approach that considers correlations between features, utilizing modules such as WGCNA (Weighted Gene Co-expression Network Analysis) to enhance classification prediction performance.
 ![Figure2](./image/Figure2.png)
 
+## Requirements
+- Python 3.6.10
+- For other dependencies, check `requirements.txt`.
+
 ### Execution Examples
 
 ```bash
