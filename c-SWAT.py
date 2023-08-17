@@ -51,7 +51,8 @@ def calculate_feature_importance(X, y, feature_names):
     return importances
 
 def calculate_overall_accuracy(X, y):
-    kfold = KFold(n_splits=5, shuffle=True)
+    kfold = KFold(n_splits=5, shuffle=True) 
+    #kfold = KFold(n_splits=len(X))  # for LOOCV
     acc_per_fold = []
     N_in = X.shape[1]
 
@@ -85,6 +86,7 @@ def main(csv_file, module_file):
     for i in range(len(module)):
         X, y, N_in, _ = load_data(csv_file, module_file, i)
         kfold = KFold(n_splits=5, shuffle=True)
+        #kfold = KFold(n_splits=len(X))  # for LOOCV
         acc_per_fold = []
 
         for train_index, test_index in kfold.split(X):
