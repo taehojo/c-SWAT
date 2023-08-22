@@ -1,0 +1,3124 @@
+
+Used PIS top 1 features. Average accuracy over 5-folds: 0.6892
+
+Used 1 random features. Average accuracy over 5-folds: 0.5857
+
+Used PIS top 2 features. Average accuracy over 5-folds: 0.7230
+
+Used 2 random features. Average accuracy over 5-folds: 0.6403
+
+Used PIS top 3 features. Average accuracy over 5-folds: 0.7627
+
+Used 3 random features. Average accuracy over 5-folds: 0.6911
+
+Used PIS top 4 features. Average accuracy over 5-folds: 0.7533
+
+Used 4 random features. Average accuracy over 5-folds: 0.6968
+
+Used PIS top 5 features. Average accuracy over 5-folds: 0.7665
+
+Used 5 random features. Average accuracy over 5-folds: 0.6874
+
+Used PIS top 6 features. Average accuracy over 5-folds: 0.7684
+
+Used 6 random features. Average accuracy over 5-folds: 0.6893
+
+Used PIS top 7 features. Average accuracy over 5-folds: 0.7853
+
+Used 7 random features. Average accuracy over 5-folds: 0.7024
+
+Used PIS top 8 features. Average accuracy over 5-folds: 0.7777
+
+Used 8 random features. Average accuracy over 5-folds: 0.7043
+
+Used PIS top 9 features. Average accuracy over 5-folds: 0.7702
+
+Used 9 random features. Average accuracy over 5-folds: 0.7100
+
+Used PIS top 10 features. Average accuracy over 5-folds: 0.7797
+
+Used 10 random features. Average accuracy over 5-folds: 0.6987
+
+Used PIS top 11 features. Average accuracy over 5-folds: 0.7683
+
+Used 11 random features. Average accuracy over 5-folds: 0.7194
+
+Used PIS top 12 features. Average accuracy over 5-folds: 0.7645
+
+Used 12 random features. Average accuracy over 5-folds: 0.7081
+
+Used PIS top 13 features. Average accuracy over 5-folds: 0.7815
+
+Used 13 random features. Average accuracy over 5-folds: 0.7118
+
+Used PIS top 14 features. Average accuracy over 5-folds: 0.7909
+
+Used 14 random features. Average accuracy over 5-folds: 0.7099
+
+Used PIS top 15 features. Average accuracy over 5-folds: 0.7815
+
+Used 15 random features. Average accuracy over 5-folds: 0.7100
+
+Used PIS top 16 features. Average accuracy over 5-folds: 0.7814
+
+Used 16 random features. Average accuracy over 5-folds: 0.7137
+
+Used PIS top 17 features. Average accuracy over 5-folds: 0.8022
+
+Used 17 random features. Average accuracy over 5-folds: 0.7100
+
+Used PIS top 18 features. Average accuracy over 5-folds: 0.7853
+
+Used 18 random features. Average accuracy over 5-folds: 0.7081
+
+Used PIS top 19 features. Average accuracy over 5-folds: 0.7871
+
+Used 19 random features. Average accuracy over 5-folds: 0.7156
+
+Used PIS top 20 features. Average accuracy over 5-folds: 0.7928
+
+Used 20 random features. Average accuracy over 5-folds: 0.7099
+
+Used PIS top 21 features. Average accuracy over 5-folds: 0.7966
+
+Used 21 random features. Average accuracy over 5-folds: 0.7081
+
+Used PIS top 22 features. Average accuracy over 5-folds: 0.7966
+
+Used 22 random features. Average accuracy over 5-folds: 0.7062
+
+Used PIS top 23 features. Average accuracy over 5-folds: 0.7796
+
+Used 23 random features. Average accuracy over 5-folds: 0.7175
+
+Used PIS top 24 features. Average accuracy over 5-folds: 0.7777
+
+Used 24 random features. Average accuracy over 5-folds: 0.7137
+
+Used PIS top 25 features. Average accuracy over 5-folds: 0.7890
+
+Used 25 random features. Average accuracy over 5-folds: 0.7232
+
+Used PIS top 26 features. Average accuracy over 5-folds: 0.7890
+
+Used 26 random features. Average accuracy over 5-folds: 0.7269
+
+Used PIS top 27 features. Average accuracy over 5-folds: 0.7928
+
+Used 27 random features. Average accuracy over 5-folds: 0.7495
+
+Used PIS top 28 features. Average accuracy over 5-folds: 0.7853
+
+Used 28 random features. Average accuracy over 5-folds: 0.7062
+
+Used PIS top 29 features. Average accuracy over 5-folds: 0.7891
+
+Used 29 random features. Average accuracy over 5-folds: 0.7213
+
+Used PIS top 30 features. Average accuracy over 5-folds: 0.7853
+
+Used 30 random features. Average accuracy over 5-folds: 0.7043
+
+Used PIS top 31 features. Average accuracy over 5-folds: 0.7966
+
+Used 31 random features. Average accuracy over 5-folds: 0.7081
+
+Used PIS top 32 features. Average accuracy over 5-folds: 0.7948
+
+Used 32 random features. Average accuracy over 5-folds: 0.7063
+
+Used PIS top 33 features. Average accuracy over 5-folds: 0.7985
+
+Used 33 random features. Average accuracy over 5-folds: 0.7288
+
+Used PIS top 34 features. Average accuracy over 5-folds: 0.7909
+
+Used 34 random features. Average accuracy over 5-folds: 0.7044
+
+Used PIS top 35 features. Average accuracy over 5-folds: 0.7985
+
+Used 35 random features. Average accuracy over 5-folds: 0.7175
+
+Used PIS top 36 features. Average accuracy over 5-folds: 0.7966
+
+Used 36 random features. Average accuracy over 5-folds: 0.7175
+
+Used PIS top 37 features. Average accuracy over 5-folds: 0.7985
+
+Used 37 random features. Average accuracy over 5-folds: 0.7062
+
+Used PIS top 38 features. Average accuracy over 5-folds: 0.8003
+
+Used 38 random features. Average accuracy over 5-folds: 0.7118
+
+Used PIS top 39 features. Average accuracy over 5-folds: 0.7740
+
+Used 39 random features. Average accuracy over 5-folds: 0.7552
+
+Used PIS top 40 features. Average accuracy over 5-folds: 0.7816
+
+Used 40 random features. Average accuracy over 5-folds: 0.7175
+
+Used PIS top 41 features. Average accuracy over 5-folds: 0.7853
+
+Used 41 random features. Average accuracy over 5-folds: 0.7232
+
+Used PIS top 42 features. Average accuracy over 5-folds: 0.7872
+
+Used 42 random features. Average accuracy over 5-folds: 0.7175
+
+Used PIS top 43 features. Average accuracy over 5-folds: 0.7796
+
+Used 43 random features. Average accuracy over 5-folds: 0.7175
+
+Used PIS top 44 features. Average accuracy over 5-folds: 0.7853
+
+Used 44 random features. Average accuracy over 5-folds: 0.7137
+
+Used PIS top 45 features. Average accuracy over 5-folds: 0.7834
+
+Used 45 random features. Average accuracy over 5-folds: 0.7137
+
+Used PIS top 46 features. Average accuracy over 5-folds: 0.7834
+
+Used 46 random features. Average accuracy over 5-folds: 0.7458
+
+Used PIS top 47 features. Average accuracy over 5-folds: 0.7759
+
+Used 47 random features. Average accuracy over 5-folds: 0.7118
+
+Used PIS top 48 features. Average accuracy over 5-folds: 0.7853
+
+Used 48 random features. Average accuracy over 5-folds: 0.7156
+
+Used PIS top 49 features. Average accuracy over 5-folds: 0.7834
+
+Used 49 random features. Average accuracy over 5-folds: 0.7119
+
+Used PIS top 50 features. Average accuracy over 5-folds: 0.7891
+
+Used 50 random features. Average accuracy over 5-folds: 0.7137
+
+Used PIS top 51 features. Average accuracy over 5-folds: 0.7853
+
+Used 51 random features. Average accuracy over 5-folds: 0.7119
+
+Used PIS top 52 features. Average accuracy over 5-folds: 0.7872
+
+Used 52 random features. Average accuracy over 5-folds: 0.7118
+
+Used PIS top 53 features. Average accuracy over 5-folds: 0.7834
+
+Used 53 random features. Average accuracy over 5-folds: 0.7514
+
+Used PIS top 54 features. Average accuracy over 5-folds: 0.7797
+
+Used 54 random features. Average accuracy over 5-folds: 0.7100
+
+Used PIS top 55 features. Average accuracy over 5-folds: 0.7721
+
+Used 55 random features. Average accuracy over 5-folds: 0.7213
+
+Used PIS top 56 features. Average accuracy over 5-folds: 0.7797
+
+Used 56 random features. Average accuracy over 5-folds: 0.7100
+
+Used PIS top 57 features. Average accuracy over 5-folds: 0.7759
+
+Used 57 random features. Average accuracy over 5-folds: 0.7382
+
+Used PIS top 58 features. Average accuracy over 5-folds: 0.7777
+
+Used 58 random features. Average accuracy over 5-folds: 0.7138
+
+Used PIS top 59 features. Average accuracy over 5-folds: 0.7721
+
+Used 59 random features. Average accuracy over 5-folds: 0.7138
+
+Used PIS top 60 features. Average accuracy over 5-folds: 0.7740
+
+Used 60 random features. Average accuracy over 5-folds: 0.7665
+
+Used PIS top 61 features. Average accuracy over 5-folds: 0.7683
+
+Used 61 random features. Average accuracy over 5-folds: 0.7364
+
+Used PIS top 62 features. Average accuracy over 5-folds: 0.7796
+
+Used 62 random features. Average accuracy over 5-folds: 0.7100
+
+Used PIS top 63 features. Average accuracy over 5-folds: 0.7815
+
+Used 63 random features. Average accuracy over 5-folds: 0.7213
+
+Used PIS top 64 features. Average accuracy over 5-folds: 0.7777
+
+Used 64 random features. Average accuracy over 5-folds: 0.7119
+
+Used PIS top 65 features. Average accuracy over 5-folds: 0.7816
+
+Used 65 random features. Average accuracy over 5-folds: 0.7571
+
+Used PIS top 66 features. Average accuracy over 5-folds: 0.7834
+
+Used 66 random features. Average accuracy over 5-folds: 0.7175
+
+Used PIS top 67 features. Average accuracy over 5-folds: 0.7853
+
+Used 67 random features. Average accuracy over 5-folds: 0.7137
+
+Used PIS top 68 features. Average accuracy over 5-folds: 0.7778
+
+Used 68 random features. Average accuracy over 5-folds: 0.7194
+
+Used PIS top 69 features. Average accuracy over 5-folds: 0.7966
+
+Used 69 random features. Average accuracy over 5-folds: 0.7175
+
+Used PIS top 70 features. Average accuracy over 5-folds: 0.7778
+
+Used 70 random features. Average accuracy over 5-folds: 0.7194
+
+Used PIS top 71 features. Average accuracy over 5-folds: 0.7758
+
+Used 71 random features. Average accuracy over 5-folds: 0.7138
+
+Used PIS top 72 features. Average accuracy over 5-folds: 0.7890
+
+Used 72 random features. Average accuracy over 5-folds: 0.7194
+
+Used PIS top 73 features. Average accuracy over 5-folds: 0.7683
+
+Used 73 random features. Average accuracy over 5-folds: 0.7270
+
+Used PIS top 74 features. Average accuracy over 5-folds: 0.7683
+
+Used 74 random features. Average accuracy over 5-folds: 0.7005
+
+Used PIS top 75 features. Average accuracy over 5-folds: 0.7759
+
+Used 75 random features. Average accuracy over 5-folds: 0.7156
+
+Used PIS top 76 features. Average accuracy over 5-folds: 0.7816
+
+Used 76 random features. Average accuracy over 5-folds: 0.7232
+
+Used PIS top 77 features. Average accuracy over 5-folds: 0.7872
+
+Used 77 random features. Average accuracy over 5-folds: 0.7100
+
+Used PIS top 78 features. Average accuracy over 5-folds: 0.7777
+
+Used 78 random features. Average accuracy over 5-folds: 0.7364
+
+Used PIS top 79 features. Average accuracy over 5-folds: 0.7853
+
+Used 79 random features. Average accuracy over 5-folds: 0.7082
+
+Used PIS top 80 features. Average accuracy over 5-folds: 0.7703
+
+Used 80 random features. Average accuracy over 5-folds: 0.7213
+
+Used PIS top 81 features. Average accuracy over 5-folds: 0.7759
+
+Used 81 random features. Average accuracy over 5-folds: 0.7100
+
+Used PIS top 82 features. Average accuracy over 5-folds: 0.7759
+
+Used 82 random features. Average accuracy over 5-folds: 0.7157
+
+Used PIS top 83 features. Average accuracy over 5-folds: 0.7740
+
+Used 83 random features. Average accuracy over 5-folds: 0.7119
+
+Used PIS top 84 features. Average accuracy over 5-folds: 0.7721
+
+Used 84 random features. Average accuracy over 5-folds: 0.7495
+
+Used PIS top 85 features. Average accuracy over 5-folds: 0.7797
+
+Used 85 random features. Average accuracy over 5-folds: 0.7175
+
+Used PIS top 86 features. Average accuracy over 5-folds: 0.7721
+
+Used 86 random features. Average accuracy over 5-folds: 0.7175
+
+Used PIS top 87 features. Average accuracy over 5-folds: 0.7683
+
+Used 87 random features. Average accuracy over 5-folds: 0.7232
+
+Used PIS top 88 features. Average accuracy over 5-folds: 0.7816
+
+Used 88 random features. Average accuracy over 5-folds: 0.7194
+
+Used PIS top 89 features. Average accuracy over 5-folds: 0.7797
+
+Used 89 random features. Average accuracy over 5-folds: 0.7231
+
+Used PIS top 90 features. Average accuracy over 5-folds: 0.7797
+
+Used 90 random features. Average accuracy over 5-folds: 0.7100
+
+Used PIS top 91 features. Average accuracy over 5-folds: 0.7702
+
+Used 91 random features. Average accuracy over 5-folds: 0.7100
+
+Used PIS top 92 features. Average accuracy over 5-folds: 0.7721
+
+Used 92 random features. Average accuracy over 5-folds: 0.7345
+
+Used PIS top 93 features. Average accuracy over 5-folds: 0.7834
+
+Used 93 random features. Average accuracy over 5-folds: 0.7194
+
+Used PIS top 94 features. Average accuracy over 5-folds: 0.7646
+
+Used 94 random features. Average accuracy over 5-folds: 0.7100
+
+Used PIS top 95 features. Average accuracy over 5-folds: 0.7627
+
+Used 95 random features. Average accuracy over 5-folds: 0.7175
+
+Used PIS top 96 features. Average accuracy over 5-folds: 0.7777
+
+Used 96 random features. Average accuracy over 5-folds: 0.7213
+
+Used PIS top 97 features. Average accuracy over 5-folds: 0.7797
+
+Used 97 random features. Average accuracy over 5-folds: 0.7006
+
+Used PIS top 98 features. Average accuracy over 5-folds: 0.7777
+
+Used 98 random features. Average accuracy over 5-folds: 0.7514
+
+Used PIS top 99 features. Average accuracy over 5-folds: 0.7627
+
+Used 99 random features. Average accuracy over 5-folds: 0.7213
+
+Used PIS top 100 features. Average accuracy over 5-folds: 0.7683
+
+Used 100 random features. Average accuracy over 5-folds: 0.7194
+
+Used PIS top 101 features. Average accuracy over 5-folds: 0.7740
+
+Used 101 random features. Average accuracy over 5-folds: 0.7138
+
+Used PIS top 102 features. Average accuracy over 5-folds: 0.7608
+
+Used 102 random features. Average accuracy over 5-folds: 0.7420
+
+Used PIS top 103 features. Average accuracy over 5-folds: 0.7664
+
+Used 103 random features. Average accuracy over 5-folds: 0.7138
+
+Used PIS top 104 features. Average accuracy over 5-folds: 0.7646
+
+Used 104 random features. Average accuracy over 5-folds: 0.7175
+
+Used PIS top 105 features. Average accuracy over 5-folds: 0.7646
+
+Used 105 random features. Average accuracy over 5-folds: 0.7438
+
+Used PIS top 106 features. Average accuracy over 5-folds: 0.7683
+
+Used 106 random features. Average accuracy over 5-folds: 0.7420
+
+Used PIS top 107 features. Average accuracy over 5-folds: 0.7683
+
+Used 107 random features. Average accuracy over 5-folds: 0.7383
+
+Used PIS top 108 features. Average accuracy over 5-folds: 0.7702
+
+Used 108 random features. Average accuracy over 5-folds: 0.7307
+
+Used PIS top 109 features. Average accuracy over 5-folds: 0.7683
+
+Used 109 random features. Average accuracy over 5-folds: 0.7458
+
+Used PIS top 110 features. Average accuracy over 5-folds: 0.7645
+
+Used 110 random features. Average accuracy over 5-folds: 0.7401
+
+Used PIS top 111 features. Average accuracy over 5-folds: 0.7627
+
+Used 111 random features. Average accuracy over 5-folds: 0.7363
+
+Used PIS top 112 features. Average accuracy over 5-folds: 0.7721
+
+Used 112 random features. Average accuracy over 5-folds: 0.7175
+
+Used PIS top 113 features. Average accuracy over 5-folds: 0.7722
+
+Used 113 random features. Average accuracy over 5-folds: 0.7100
+
+Used PIS top 114 features. Average accuracy over 5-folds: 0.7721
+
+Used 114 random features. Average accuracy over 5-folds: 0.7232
+
+Used PIS top 115 features. Average accuracy over 5-folds: 0.7683
+
+Used 115 random features. Average accuracy over 5-folds: 0.7345
+
+Used PIS top 116 features. Average accuracy over 5-folds: 0.7759
+
+Used 116 random features. Average accuracy over 5-folds: 0.7137
+
+Used PIS top 117 features. Average accuracy over 5-folds: 0.7627
+
+Used 117 random features. Average accuracy over 5-folds: 0.7157
+
+Used PIS top 118 features. Average accuracy over 5-folds: 0.7778
+
+Used 118 random features. Average accuracy over 5-folds: 0.7477
+
+Used PIS top 119 features. Average accuracy over 5-folds: 0.7646
+
+Used 119 random features. Average accuracy over 5-folds: 0.7081
+
+Used PIS top 120 features. Average accuracy over 5-folds: 0.7646
+
+Used 120 random features. Average accuracy over 5-folds: 0.7175
+
+Used PIS top 121 features. Average accuracy over 5-folds: 0.7590
+
+Used 121 random features. Average accuracy over 5-folds: 0.7175
+
+Used PIS top 122 features. Average accuracy over 5-folds: 0.7815
+
+Used 122 random features. Average accuracy over 5-folds: 0.7326
+
+Used PIS top 123 features. Average accuracy over 5-folds: 0.7665
+
+Used 123 random features. Average accuracy over 5-folds: 0.7156
+
+Used PIS top 124 features. Average accuracy over 5-folds: 0.7815
+
+Used 124 random features. Average accuracy over 5-folds: 0.7213
+
+Used PIS top 125 features. Average accuracy over 5-folds: 0.7646
+
+Used 125 random features. Average accuracy over 5-folds: 0.7156
+
+Used PIS top 126 features. Average accuracy over 5-folds: 0.7758
+
+Used 126 random features. Average accuracy over 5-folds: 0.7137
+
+Used PIS top 127 features. Average accuracy over 5-folds: 0.7816
+
+Used 127 random features. Average accuracy over 5-folds: 0.7232
+
+Used PIS top 128 features. Average accuracy over 5-folds: 0.7645
+
+Used 128 random features. Average accuracy over 5-folds: 0.7119
+
+Used PIS top 129 features. Average accuracy over 5-folds: 0.7702
+
+Used 129 random features. Average accuracy over 5-folds: 0.7269
+
+Used PIS top 130 features. Average accuracy over 5-folds: 0.7646
+
+Used 130 random features. Average accuracy over 5-folds: 0.7138
+
+Used PIS top 131 features. Average accuracy over 5-folds: 0.7514
+
+Used 131 random features. Average accuracy over 5-folds: 0.7288
+
+Used PIS top 132 features. Average accuracy over 5-folds: 0.7646
+
+Used 132 random features. Average accuracy over 5-folds: 0.7251
+
+Used PIS top 133 features. Average accuracy over 5-folds: 0.7683
+
+Used 133 random features. Average accuracy over 5-folds: 0.7288
+
+Used PIS top 134 features. Average accuracy over 5-folds: 0.7646
+
+Used 134 random features. Average accuracy over 5-folds: 0.7156
+
+Used PIS top 135 features. Average accuracy over 5-folds: 0.7627
+
+Used 135 random features. Average accuracy over 5-folds: 0.7213
+
+Used PIS top 136 features. Average accuracy over 5-folds: 0.7665
+
+Used 136 random features. Average accuracy over 5-folds: 0.7156
+
+Used PIS top 137 features. Average accuracy over 5-folds: 0.7495
+
+Used 137 random features. Average accuracy over 5-folds: 0.7100
+
+Used PIS top 138 features. Average accuracy over 5-folds: 0.7740
+
+Used 138 random features. Average accuracy over 5-folds: 0.7156
+
+Used PIS top 139 features. Average accuracy over 5-folds: 0.7514
+
+Used 139 random features. Average accuracy over 5-folds: 0.7270
+
+Used PIS top 140 features. Average accuracy over 5-folds: 0.7722
+
+Used 140 random features. Average accuracy over 5-folds: 0.7326
+
+Used PIS top 141 features. Average accuracy over 5-folds: 0.7552
+
+Used 141 random features. Average accuracy over 5-folds: 0.7044
+
+Used PIS top 142 features. Average accuracy over 5-folds: 0.7664
+
+Used 142 random features. Average accuracy over 5-folds: 0.7081
+
+Used PIS top 143 features. Average accuracy over 5-folds: 0.7683
+
+Used 143 random features. Average accuracy over 5-folds: 0.7119
+
+Used PIS top 144 features. Average accuracy over 5-folds: 0.7589
+
+Used 144 random features. Average accuracy over 5-folds: 0.7646
+
+Used PIS top 145 features. Average accuracy over 5-folds: 0.7646
+
+Used 145 random features. Average accuracy over 5-folds: 0.7175
+
+Used PIS top 146 features. Average accuracy over 5-folds: 0.7721
+
+Used 146 random features. Average accuracy over 5-folds: 0.7213
+
+Used PIS top 147 features. Average accuracy over 5-folds: 0.7608
+
+Used 147 random features. Average accuracy over 5-folds: 0.7194
+
+Used PIS top 148 features. Average accuracy over 5-folds: 0.7646
+
+Used 148 random features. Average accuracy over 5-folds: 0.7401
+
+Used PIS top 149 features. Average accuracy over 5-folds: 0.7796
+
+Used 149 random features. Average accuracy over 5-folds: 0.7213
+
+Used PIS top 150 features. Average accuracy over 5-folds: 0.7683
+
+Used 150 random features. Average accuracy over 5-folds: 0.7269
+
+Used PIS top 151 features. Average accuracy over 5-folds: 0.7532
+
+Used 151 random features. Average accuracy over 5-folds: 0.7364
+
+Used PIS top 152 features. Average accuracy over 5-folds: 0.7552
+
+Used 152 random features. Average accuracy over 5-folds: 0.7100
+
+Used PIS top 153 features. Average accuracy over 5-folds: 0.7627
+
+Used 153 random features. Average accuracy over 5-folds: 0.7118
+
+Used PIS top 154 features. Average accuracy over 5-folds: 0.7608
+
+Used 154 random features. Average accuracy over 5-folds: 0.7138
+
+Used PIS top 155 features. Average accuracy over 5-folds: 0.7758
+
+Used 155 random features. Average accuracy over 5-folds: 0.7194
+
+Used PIS top 156 features. Average accuracy over 5-folds: 0.7759
+
+Used 156 random features. Average accuracy over 5-folds: 0.7194
+
+Used PIS top 157 features. Average accuracy over 5-folds: 0.7571
+
+Used 157 random features. Average accuracy over 5-folds: 0.7194
+
+Used PIS top 158 features. Average accuracy over 5-folds: 0.7608
+
+Used 158 random features. Average accuracy over 5-folds: 0.7118
+
+Used PIS top 159 features. Average accuracy over 5-folds: 0.7646
+
+Used 159 random features. Average accuracy over 5-folds: 0.7138
+
+Used PIS top 160 features. Average accuracy over 5-folds: 0.7570
+
+Used 160 random features. Average accuracy over 5-folds: 0.7175
+
+Used PIS top 161 features. Average accuracy over 5-folds: 0.7645
+
+Used 161 random features. Average accuracy over 5-folds: 0.7138
+
+Used PIS top 162 features. Average accuracy over 5-folds: 0.7646
+
+Used 162 random features. Average accuracy over 5-folds: 0.7345
+
+Used PIS top 163 features. Average accuracy over 5-folds: 0.7533
+
+Used 163 random features. Average accuracy over 5-folds: 0.7251
+
+Used PIS top 164 features. Average accuracy over 5-folds: 0.7532
+
+Used 164 random features. Average accuracy over 5-folds: 0.7175
+
+Used PIS top 165 features. Average accuracy over 5-folds: 0.7589
+
+Used 165 random features. Average accuracy over 5-folds: 0.7138
+
+Used PIS top 166 features. Average accuracy over 5-folds: 0.7627
+
+Used 166 random features. Average accuracy over 5-folds: 0.7288
+
+Used PIS top 167 features. Average accuracy over 5-folds: 0.7514
+
+Used 167 random features. Average accuracy over 5-folds: 0.7307
+
+Used PIS top 168 features. Average accuracy over 5-folds: 0.7646
+
+Used 168 random features. Average accuracy over 5-folds: 0.7100
+
+Used PIS top 169 features. Average accuracy over 5-folds: 0.7495
+
+Used 169 random features. Average accuracy over 5-folds: 0.7156
+
+Used PIS top 170 features. Average accuracy over 5-folds: 0.7740
+
+Used 170 random features. Average accuracy over 5-folds: 0.7307
+
+Used PIS top 171 features. Average accuracy over 5-folds: 0.7627
+
+Used 171 random features. Average accuracy over 5-folds: 0.7062
+
+Used PIS top 172 features. Average accuracy over 5-folds: 0.7551
+
+Used 172 random features. Average accuracy over 5-folds: 0.7138
+
+Used PIS top 173 features. Average accuracy over 5-folds: 0.7589
+
+Used 173 random features. Average accuracy over 5-folds: 0.7062
+
+Used PIS top 174 features. Average accuracy over 5-folds: 0.7684
+
+Used 174 random features. Average accuracy over 5-folds: 0.7137
+
+Used PIS top 175 features. Average accuracy over 5-folds: 0.7439
+
+Used 175 random features. Average accuracy over 5-folds: 0.7307
+
+Used PIS top 176 features. Average accuracy over 5-folds: 0.7514
+
+Used 176 random features. Average accuracy over 5-folds: 0.7175
+
+Used PIS top 177 features. Average accuracy over 5-folds: 0.7608
+
+Used 177 random features. Average accuracy over 5-folds: 0.7175
+
+Used PIS top 178 features. Average accuracy over 5-folds: 0.7457
+
+Used 178 random features. Average accuracy over 5-folds: 0.7194
+
+Used PIS top 179 features. Average accuracy over 5-folds: 0.7458
+
+Used 179 random features. Average accuracy over 5-folds: 0.7175
+
+Used PIS top 180 features. Average accuracy over 5-folds: 0.7533
+
+Used 180 random features. Average accuracy over 5-folds: 0.7138
+
+Used PIS top 181 features. Average accuracy over 5-folds: 0.7552
+
+Used 181 random features. Average accuracy over 5-folds: 0.7250
+
+Used PIS top 182 features. Average accuracy over 5-folds: 0.7608
+
+Used 182 random features. Average accuracy over 5-folds: 0.7156
+
+Used PIS top 183 features. Average accuracy over 5-folds: 0.7627
+
+Used 183 random features. Average accuracy over 5-folds: 0.7138
+
+Used PIS top 184 features. Average accuracy over 5-folds: 0.7570
+
+Used 184 random features. Average accuracy over 5-folds: 0.7175
+
+Used PIS top 185 features. Average accuracy over 5-folds: 0.7665
+
+Used 185 random features. Average accuracy over 5-folds: 0.7175
+
+Used PIS top 186 features. Average accuracy over 5-folds: 0.7646
+
+Used 186 random features. Average accuracy over 5-folds: 0.7363
+
+Used PIS top 187 features. Average accuracy over 5-folds: 0.7439
+
+Used 187 random features. Average accuracy over 5-folds: 0.7100
+
+Used PIS top 188 features. Average accuracy over 5-folds: 0.7570
+
+Used 188 random features. Average accuracy over 5-folds: 0.7100
+
+Used PIS top 189 features. Average accuracy over 5-folds: 0.7590
+
+Used 189 random features. Average accuracy over 5-folds: 0.7307
+
+Used PIS top 190 features. Average accuracy over 5-folds: 0.7571
+
+Used 190 random features. Average accuracy over 5-folds: 0.7533
+
+Used PIS top 191 features. Average accuracy over 5-folds: 0.7570
+
+Used 191 random features. Average accuracy over 5-folds: 0.7307
+
+Used PIS top 192 features. Average accuracy over 5-folds: 0.7570
+
+Used 192 random features. Average accuracy over 5-folds: 0.7420
+
+Used PIS top 193 features. Average accuracy over 5-folds: 0.7627
+
+Used 193 random features. Average accuracy over 5-folds: 0.7269
+
+Used PIS top 194 features. Average accuracy over 5-folds: 0.7514
+
+Used 194 random features. Average accuracy over 5-folds: 0.7345
+
+Used PIS top 195 features. Average accuracy over 5-folds: 0.7514
+
+Used 195 random features. Average accuracy over 5-folds: 0.7213
+
+Used PIS top 196 features. Average accuracy over 5-folds: 0.7495
+
+Used 196 random features. Average accuracy over 5-folds: 0.7194
+
+Used PIS top 197 features. Average accuracy over 5-folds: 0.7608
+
+Used 197 random features. Average accuracy over 5-folds: 0.7100
+
+Used PIS top 198 features. Average accuracy over 5-folds: 0.7608
+
+Used 198 random features. Average accuracy over 5-folds: 0.7213
+
+Used PIS top 199 features. Average accuracy over 5-folds: 0.7684
+
+Used 199 random features. Average accuracy over 5-folds: 0.7175
+
+Used PIS top 200 features. Average accuracy over 5-folds: 0.7514
+
+Used 200 random features. Average accuracy over 5-folds: 0.7213
+
+Used PIS top 201 features. Average accuracy over 5-folds: 0.7645
+
+Used 201 random features. Average accuracy over 5-folds: 0.7213
+
+Used PIS top 202 features. Average accuracy over 5-folds: 0.7533
+
+Used 202 random features. Average accuracy over 5-folds: 0.7119
+
+Used PIS top 203 features. Average accuracy over 5-folds: 0.7514
+
+Used 203 random features. Average accuracy over 5-folds: 0.7213
+
+Used PIS top 204 features. Average accuracy over 5-folds: 0.7589
+
+Used 204 random features. Average accuracy over 5-folds: 0.7081
+
+Used PIS top 205 features. Average accuracy over 5-folds: 0.7646
+
+Used 205 random features. Average accuracy over 5-folds: 0.7269
+
+Used PIS top 206 features. Average accuracy over 5-folds: 0.7476
+
+Used 206 random features. Average accuracy over 5-folds: 0.7194
+
+Used PIS top 207 features. Average accuracy over 5-folds: 0.7457
+
+Used 207 random features. Average accuracy over 5-folds: 0.7194
+
+Used PIS top 208 features. Average accuracy over 5-folds: 0.7458
+
+Used 208 random features. Average accuracy over 5-folds: 0.7081
+
+Used PIS top 209 features. Average accuracy over 5-folds: 0.7608
+
+Used 209 random features. Average accuracy over 5-folds: 0.7156
+
+Used PIS top 210 features. Average accuracy over 5-folds: 0.7533
+
+Used 210 random features. Average accuracy over 5-folds: 0.7213
+
+Used PIS top 211 features. Average accuracy over 5-folds: 0.7477
+
+Used 211 random features. Average accuracy over 5-folds: 0.7382
+
+Used PIS top 212 features. Average accuracy over 5-folds: 0.7458
+
+Used 212 random features. Average accuracy over 5-folds: 0.7100
+
+Used PIS top 213 features. Average accuracy over 5-folds: 0.7646
+
+Used 213 random features. Average accuracy over 5-folds: 0.7119
+
+Used PIS top 214 features. Average accuracy over 5-folds: 0.7458
+
+Used 214 random features. Average accuracy over 5-folds: 0.7138
+
+Used PIS top 215 features. Average accuracy over 5-folds: 0.7627
+
+Used 215 random features. Average accuracy over 5-folds: 0.7269
+
+Used PIS top 216 features. Average accuracy over 5-folds: 0.7495
+
+Used 216 random features. Average accuracy over 5-folds: 0.7138
+
+Used PIS top 217 features. Average accuracy over 5-folds: 0.7495
+
+Used 217 random features. Average accuracy over 5-folds: 0.7157
+
+Used PIS top 218 features. Average accuracy over 5-folds: 0.7458
+
+Used 218 random features. Average accuracy over 5-folds: 0.7156
+
+Used PIS top 219 features. Average accuracy over 5-folds: 0.7552
+
+Used 219 random features. Average accuracy over 5-folds: 0.7401
+
+Used PIS top 220 features. Average accuracy over 5-folds: 0.7645
+
+Used 220 random features. Average accuracy over 5-folds: 0.7156
+
+Used PIS top 221 features. Average accuracy over 5-folds: 0.7477
+
+Used 221 random features. Average accuracy over 5-folds: 0.7251
+
+Used PIS top 222 features. Average accuracy over 5-folds: 0.7533
+
+Used 222 random features. Average accuracy over 5-folds: 0.7119
+
+Used PIS top 223 features. Average accuracy over 5-folds: 0.7439
+
+Used 223 random features. Average accuracy over 5-folds: 0.7250
+
+Used PIS top 224 features. Average accuracy over 5-folds: 0.7608
+
+Used 224 random features. Average accuracy over 5-folds: 0.7062
+
+Used PIS top 225 features. Average accuracy over 5-folds: 0.7571
+
+Used 225 random features. Average accuracy over 5-folds: 0.7176
+
+Used PIS top 226 features. Average accuracy over 5-folds: 0.7589
+
+Used 226 random features. Average accuracy over 5-folds: 0.7250
+
+Used PIS top 227 features. Average accuracy over 5-folds: 0.7532
+
+Used 227 random features. Average accuracy over 5-folds: 0.7194
+
+Used PIS top 228 features. Average accuracy over 5-folds: 0.7570
+
+Used 228 random features. Average accuracy over 5-folds: 0.7307
+
+Used PIS top 229 features. Average accuracy over 5-folds: 0.7627
+
+Used 229 random features. Average accuracy over 5-folds: 0.7326
+
+Used PIS top 230 features. Average accuracy over 5-folds: 0.7590
+
+Used 230 random features. Average accuracy over 5-folds: 0.7251
+
+Used PIS top 231 features. Average accuracy over 5-folds: 0.7551
+
+Used 231 random features. Average accuracy over 5-folds: 0.7458
+
+Used PIS top 232 features. Average accuracy over 5-folds: 0.7533
+
+Used 232 random features. Average accuracy over 5-folds: 0.7326
+
+Used PIS top 233 features. Average accuracy over 5-folds: 0.7458
+
+Used 233 random features. Average accuracy over 5-folds: 0.7119
+
+Used PIS top 234 features. Average accuracy over 5-folds: 0.7551
+
+Used 234 random features. Average accuracy over 5-folds: 0.7326
+
+Used PIS top 235 features. Average accuracy over 5-folds: 0.7345
+
+Used 235 random features. Average accuracy over 5-folds: 0.7194
+
+Used PIS top 236 features. Average accuracy over 5-folds: 0.7401
+
+Used 236 random features. Average accuracy over 5-folds: 0.7176
+
+Used PIS top 237 features. Average accuracy over 5-folds: 0.7551
+
+Used 237 random features. Average accuracy over 5-folds: 0.7156
+
+Used PIS top 238 features. Average accuracy over 5-folds: 0.7476
+
+Used 238 random features. Average accuracy over 5-folds: 0.7081
+
+Used PIS top 239 features. Average accuracy over 5-folds: 0.7495
+
+Used 239 random features. Average accuracy over 5-folds: 0.7326
+
+Used PIS top 240 features. Average accuracy over 5-folds: 0.7419
+
+Used 240 random features. Average accuracy over 5-folds: 0.7232
+
+Used PIS top 241 features. Average accuracy over 5-folds: 0.7570
+
+Used 241 random features. Average accuracy over 5-folds: 0.7081
+
+Used PIS top 242 features. Average accuracy over 5-folds: 0.7647
+
+Used 242 random features. Average accuracy over 5-folds: 0.7269
+
+Used PIS top 243 features. Average accuracy over 5-folds: 0.7438
+
+Used 243 random features. Average accuracy over 5-folds: 0.7138
+
+Used PIS top 244 features. Average accuracy over 5-folds: 0.7646
+
+Used 244 random features. Average accuracy over 5-folds: 0.7213
+
+Used PIS top 245 features. Average accuracy over 5-folds: 0.7458
+
+Used 245 random features. Average accuracy over 5-folds: 0.7119
+
+Used PIS top 246 features. Average accuracy over 5-folds: 0.7476
+
+Used 246 random features. Average accuracy over 5-folds: 0.7269
+
+Used PIS top 247 features. Average accuracy over 5-folds: 0.7533
+
+Used 247 random features. Average accuracy over 5-folds: 0.7345
+
+Used PIS top 248 features. Average accuracy over 5-folds: 0.7401
+
+Used 248 random features. Average accuracy over 5-folds: 0.7326
+
+Used PIS top 249 features. Average accuracy over 5-folds: 0.7533
+
+Used 249 random features. Average accuracy over 5-folds: 0.7175
+
+Used PIS top 250 features. Average accuracy over 5-folds: 0.7458
+
+Used 250 random features. Average accuracy over 5-folds: 0.7156
+
+Used PIS top 251 features. Average accuracy over 5-folds: 0.7457
+
+Used 251 random features. Average accuracy over 5-folds: 0.7477
+
+Used PIS top 252 features. Average accuracy over 5-folds: 0.7514
+
+Used 252 random features. Average accuracy over 5-folds: 0.7176
+
+Used PIS top 253 features. Average accuracy over 5-folds: 0.7514
+
+Used 253 random features. Average accuracy over 5-folds: 0.7175
+
+Used PIS top 254 features. Average accuracy over 5-folds: 0.7703
+
+Used 254 random features. Average accuracy over 5-folds: 0.7138
+
+Used PIS top 255 features. Average accuracy over 5-folds: 0.7496
+
+Used 255 random features. Average accuracy over 5-folds: 0.7307
+
+Used PIS top 256 features. Average accuracy over 5-folds: 0.7420
+
+Used 256 random features. Average accuracy over 5-folds: 0.7325
+
+Used PIS top 257 features. Average accuracy over 5-folds: 0.7439
+
+Used 257 random features. Average accuracy over 5-folds: 0.7269
+
+Used PIS top 258 features. Average accuracy over 5-folds: 0.7589
+
+Used 258 random features. Average accuracy over 5-folds: 0.7119
+
+Used PIS top 259 features. Average accuracy over 5-folds: 0.7476
+
+Used 259 random features. Average accuracy over 5-folds: 0.7326
+
+Used PIS top 260 features. Average accuracy over 5-folds: 0.7590
+
+Used 260 random features. Average accuracy over 5-folds: 0.7250
+
+Used PIS top 261 features. Average accuracy over 5-folds: 0.7457
+
+Used 261 random features. Average accuracy over 5-folds: 0.7119
+
+Used PIS top 262 features. Average accuracy over 5-folds: 0.7476
+
+Used 262 random features. Average accuracy over 5-folds: 0.7495
+
+Used PIS top 263 features. Average accuracy over 5-folds: 0.7665
+
+Used 263 random features. Average accuracy over 5-folds: 0.7175
+
+Used PIS top 264 features. Average accuracy over 5-folds: 0.7514
+
+Used 264 random features. Average accuracy over 5-folds: 0.7194
+
+Used PIS top 265 features. Average accuracy over 5-folds: 0.7552
+
+Used 265 random features. Average accuracy over 5-folds: 0.7270
+
+Used PIS top 266 features. Average accuracy over 5-folds: 0.7439
+
+Used 266 random features. Average accuracy over 5-folds: 0.7439
+
+Used PIS top 267 features. Average accuracy over 5-folds: 0.7533
+
+Used 267 random features. Average accuracy over 5-folds: 0.7175
+
+Used PIS top 268 features. Average accuracy over 5-folds: 0.7608
+
+Used 268 random features. Average accuracy over 5-folds: 0.7194
+
+Used PIS top 269 features. Average accuracy over 5-folds: 0.7552
+
+Used 269 random features. Average accuracy over 5-folds: 0.7232
+
+Used PIS top 270 features. Average accuracy over 5-folds: 0.7552
+
+Used 270 random features. Average accuracy over 5-folds: 0.7288
+
+Used PIS top 271 features. Average accuracy over 5-folds: 0.7420
+
+Used 271 random features. Average accuracy over 5-folds: 0.7100
+
+Used PIS top 272 features. Average accuracy over 5-folds: 0.7345
+
+Used 272 random features. Average accuracy over 5-folds: 0.7326
+
+Used PIS top 273 features. Average accuracy over 5-folds: 0.7420
+
+Used 273 random features. Average accuracy over 5-folds: 0.7119
+
+Used PIS top 274 features. Average accuracy over 5-folds: 0.7495
+
+Used 274 random features. Average accuracy over 5-folds: 0.7194
+
+Used PIS top 275 features. Average accuracy over 5-folds: 0.7514
+
+Used 275 random features. Average accuracy over 5-folds: 0.7420
+
+Used PIS top 276 features. Average accuracy over 5-folds: 0.7476
+
+Used 276 random features. Average accuracy over 5-folds: 0.7043
+
+Used PIS top 277 features. Average accuracy over 5-folds: 0.7495
+
+Used 277 random features. Average accuracy over 5-folds: 0.7213
+
+Used PIS top 278 features. Average accuracy over 5-folds: 0.7382
+
+Used 278 random features. Average accuracy over 5-folds: 0.7119
+
+Used PIS top 279 features. Average accuracy over 5-folds: 0.7477
+
+Used 279 random features. Average accuracy over 5-folds: 0.7119
+
+Used PIS top 280 features. Average accuracy over 5-folds: 0.7514
+
+Used 280 random features. Average accuracy over 5-folds: 0.7213
+
+Used PIS top 281 features. Average accuracy over 5-folds: 0.7326
+
+Used 281 random features. Average accuracy over 5-folds: 0.7213
+
+Used PIS top 282 features. Average accuracy over 5-folds: 0.7439
+
+Used 282 random features. Average accuracy over 5-folds: 0.7119
+
+Used PIS top 283 features. Average accuracy over 5-folds: 0.7457
+
+Used 283 random features. Average accuracy over 5-folds: 0.7326
+
+Used PIS top 284 features. Average accuracy over 5-folds: 0.7326
+
+Used 284 random features. Average accuracy over 5-folds: 0.7270
+
+Used PIS top 285 features. Average accuracy over 5-folds: 0.7514
+
+Used 285 random features. Average accuracy over 5-folds: 0.7270
+
+Used PIS top 286 features. Average accuracy over 5-folds: 0.7476
+
+Used 286 random features. Average accuracy over 5-folds: 0.7062
+
+Used PIS top 287 features. Average accuracy over 5-folds: 0.7420
+
+Used 287 random features. Average accuracy over 5-folds: 0.7156
+
+Used PIS top 288 features. Average accuracy over 5-folds: 0.7477
+
+Used 288 random features. Average accuracy over 5-folds: 0.7288
+
+Used PIS top 289 features. Average accuracy over 5-folds: 0.7495
+
+Used 289 random features. Average accuracy over 5-folds: 0.7194
+
+Used PIS top 290 features. Average accuracy over 5-folds: 0.7382
+
+Used 290 random features. Average accuracy over 5-folds: 0.7288
+
+Used PIS top 291 features. Average accuracy over 5-folds: 0.7533
+
+Used 291 random features. Average accuracy over 5-folds: 0.7363
+
+Used PIS top 292 features. Average accuracy over 5-folds: 0.7589
+
+Used 292 random features. Average accuracy over 5-folds: 0.7175
+
+Used PIS top 293 features. Average accuracy over 5-folds: 0.7458
+
+Used 293 random features. Average accuracy over 5-folds: 0.7213
+
+Used PIS top 294 features. Average accuracy over 5-folds: 0.7570
+
+Used 294 random features. Average accuracy over 5-folds: 0.7345
+
+Used PIS top 295 features. Average accuracy over 5-folds: 0.7477
+
+Used 295 random features. Average accuracy over 5-folds: 0.7025
+
+Used PIS top 296 features. Average accuracy over 5-folds: 0.7552
+
+Used 296 random features. Average accuracy over 5-folds: 0.7194
+
+Used PIS top 297 features. Average accuracy over 5-folds: 0.7476
+
+Used 297 random features. Average accuracy over 5-folds: 0.7288
+
+Used PIS top 298 features. Average accuracy over 5-folds: 0.7382
+
+Used 298 random features. Average accuracy over 5-folds: 0.7194
+
+Used PIS top 299 features. Average accuracy over 5-folds: 0.7457
+
+Used 299 random features. Average accuracy over 5-folds: 0.7213
+
+Used PIS top 300 features. Average accuracy over 5-folds: 0.7439
+
+Used 300 random features. Average accuracy over 5-folds: 0.7251
+
+Used PIS top 301 features. Average accuracy over 5-folds: 0.7345
+
+Used 301 random features. Average accuracy over 5-folds: 0.7439
+
+Used PIS top 302 features. Average accuracy over 5-folds: 0.7439
+
+Used 302 random features. Average accuracy over 5-folds: 0.7326
+
+Used PIS top 303 features. Average accuracy over 5-folds: 0.7514
+
+Used 303 random features. Average accuracy over 5-folds: 0.7119
+
+Used PIS top 304 features. Average accuracy over 5-folds: 0.7458
+
+Used 304 random features. Average accuracy over 5-folds: 0.7438
+
+Used PIS top 305 features. Average accuracy over 5-folds: 0.7476
+
+Used 305 random features. Average accuracy over 5-folds: 0.7194
+
+Used PIS top 306 features. Average accuracy over 5-folds: 0.7439
+
+Used 306 random features. Average accuracy over 5-folds: 0.7156
+
+Used PIS top 307 features. Average accuracy over 5-folds: 0.7420
+
+Used 307 random features. Average accuracy over 5-folds: 0.7269
+
+Used PIS top 308 features. Average accuracy over 5-folds: 0.7457
+
+Used 308 random features. Average accuracy over 5-folds: 0.7345
+
+Used PIS top 309 features. Average accuracy over 5-folds: 0.7420
+
+Used 309 random features. Average accuracy over 5-folds: 0.7401
+
+Used PIS top 310 features. Average accuracy over 5-folds: 0.7495
+
+Used 310 random features. Average accuracy over 5-folds: 0.7119
+
+Used PIS top 311 features. Average accuracy over 5-folds: 0.7458
+
+Used 311 random features. Average accuracy over 5-folds: 0.7157
+
+Used PIS top 312 features. Average accuracy over 5-folds: 0.7476
+
+Used 312 random features. Average accuracy over 5-folds: 0.7081
+
+Used PIS top 313 features. Average accuracy over 5-folds: 0.7458
+
+Used 313 random features. Average accuracy over 5-folds: 0.7288
+
+Used PIS top 314 features. Average accuracy over 5-folds: 0.7382
+
+Used 314 random features. Average accuracy over 5-folds: 0.7081
+
+Used PIS top 315 features. Average accuracy over 5-folds: 0.7533
+
+Used 315 random features. Average accuracy over 5-folds: 0.7251
+
+Used PIS top 316 features. Average accuracy over 5-folds: 0.7570
+
+Used 316 random features. Average accuracy over 5-folds: 0.7024
+
+Used PIS top 317 features. Average accuracy over 5-folds: 0.7476
+
+Used 317 random features. Average accuracy over 5-folds: 0.7138
+
+Used PIS top 318 features. Average accuracy over 5-folds: 0.7476
+
+Used 318 random features. Average accuracy over 5-folds: 0.7156
+
+Used PIS top 319 features. Average accuracy over 5-folds: 0.7307
+
+Used 319 random features. Average accuracy over 5-folds: 0.7401
+
+Used PIS top 320 features. Average accuracy over 5-folds: 0.7552
+
+Used 320 random features. Average accuracy over 5-folds: 0.7175
+
+Used PIS top 321 features. Average accuracy over 5-folds: 0.7420
+
+Used 321 random features. Average accuracy over 5-folds: 0.7157
+
+Used PIS top 322 features. Average accuracy over 5-folds: 0.7364
+
+Used 322 random features. Average accuracy over 5-folds: 0.7476
+
+Used PIS top 323 features. Average accuracy over 5-folds: 0.7457
+
+Used 323 random features. Average accuracy over 5-folds: 0.7364
+
+Used PIS top 324 features. Average accuracy over 5-folds: 0.7420
+
+Used 324 random features. Average accuracy over 5-folds: 0.7213
+
+Used PIS top 325 features. Average accuracy over 5-folds: 0.7458
+
+Used 325 random features. Average accuracy over 5-folds: 0.7326
+
+Used PIS top 326 features. Average accuracy over 5-folds: 0.7476
+
+Used 326 random features. Average accuracy over 5-folds: 0.7251
+
+Used PIS top 327 features. Average accuracy over 5-folds: 0.7382
+
+Used 327 random features. Average accuracy over 5-folds: 0.7288
+
+Used PIS top 328 features. Average accuracy over 5-folds: 0.7495
+
+Used 328 random features. Average accuracy over 5-folds: 0.7024
+
+Used PIS top 329 features. Average accuracy over 5-folds: 0.7439
+
+Used 329 random features. Average accuracy over 5-folds: 0.7194
+
+Used PIS top 330 features. Average accuracy over 5-folds: 0.7533
+
+Used 330 random features. Average accuracy over 5-folds: 0.7307
+
+Used PIS top 331 features. Average accuracy over 5-folds: 0.7382
+
+Used 331 random features. Average accuracy over 5-folds: 0.7213
+
+Used PIS top 332 features. Average accuracy over 5-folds: 0.7363
+
+Used 332 random features. Average accuracy over 5-folds: 0.7119
+
+Used PIS top 333 features. Average accuracy over 5-folds: 0.7552
+
+Used 333 random features. Average accuracy over 5-folds: 0.7156
+
+Used PIS top 334 features. Average accuracy over 5-folds: 0.7382
+
+Used 334 random features. Average accuracy over 5-folds: 0.7420
+
+Used PIS top 335 features. Average accuracy over 5-folds: 0.7533
+
+Used 335 random features. Average accuracy over 5-folds: 0.7401
+
+Used PIS top 336 features. Average accuracy over 5-folds: 0.7514
+
+Used 336 random features. Average accuracy over 5-folds: 0.7345
+
+Used PIS top 337 features. Average accuracy over 5-folds: 0.7420
+
+Used 337 random features. Average accuracy over 5-folds: 0.7232
+
+Used PIS top 338 features. Average accuracy over 5-folds: 0.7552
+
+Used 338 random features. Average accuracy over 5-folds: 0.7119
+
+Used PIS top 339 features. Average accuracy over 5-folds: 0.7269
+
+Used 339 random features. Average accuracy over 5-folds: 0.7213
+
+Used PIS top 340 features. Average accuracy over 5-folds: 0.7420
+
+Used 340 random features. Average accuracy over 5-folds: 0.7194
+
+Used PIS top 341 features. Average accuracy over 5-folds: 0.7307
+
+Used 341 random features. Average accuracy over 5-folds: 0.7250
+
+Used PIS top 342 features. Average accuracy over 5-folds: 0.7363
+
+Used 342 random features. Average accuracy over 5-folds: 0.7288
+
+Used PIS top 343 features. Average accuracy over 5-folds: 0.7420
+
+Used 343 random features. Average accuracy over 5-folds: 0.7156
+
+Used PIS top 344 features. Average accuracy over 5-folds: 0.7401
+
+Used 344 random features. Average accuracy over 5-folds: 0.7458
+
+Used PIS top 345 features. Average accuracy over 5-folds: 0.7439
+
+Used 345 random features. Average accuracy over 5-folds: 0.7364
+
+Used PIS top 346 features. Average accuracy over 5-folds: 0.7288
+
+Used 346 random features. Average accuracy over 5-folds: 0.7137
+
+Used PIS top 347 features. Average accuracy over 5-folds: 0.7269
+
+Used 347 random features. Average accuracy over 5-folds: 0.7194
+
+Used PIS top 348 features. Average accuracy over 5-folds: 0.7476
+
+Used 348 random features. Average accuracy over 5-folds: 0.7138
+
+Used PIS top 349 features. Average accuracy over 5-folds: 0.7344
+
+Used 349 random features. Average accuracy over 5-folds: 0.7288
+
+Used PIS top 350 features. Average accuracy over 5-folds: 0.7363
+
+Used 350 random features. Average accuracy over 5-folds: 0.7232
+
+Used PIS top 351 features. Average accuracy over 5-folds: 0.7533
+
+Used 351 random features. Average accuracy over 5-folds: 0.7270
+
+Used PIS top 352 features. Average accuracy over 5-folds: 0.7477
+
+Used 352 random features. Average accuracy over 5-folds: 0.7288
+
+Used PIS top 353 features. Average accuracy over 5-folds: 0.7421
+
+Used 353 random features. Average accuracy over 5-folds: 0.7213
+
+Used PIS top 354 features. Average accuracy over 5-folds: 0.7420
+
+Used 354 random features. Average accuracy over 5-folds: 0.7081
+
+Used PIS top 355 features. Average accuracy over 5-folds: 0.7363
+
+Used 355 random features. Average accuracy over 5-folds: 0.7232
+
+Used PIS top 356 features. Average accuracy over 5-folds: 0.7382
+
+Used 356 random features. Average accuracy over 5-folds: 0.7176
+
+Used PIS top 357 features. Average accuracy over 5-folds: 0.7458
+
+Used 357 random features. Average accuracy over 5-folds: 0.7288
+
+Used PIS top 358 features. Average accuracy over 5-folds: 0.7514
+
+Used 358 random features. Average accuracy over 5-folds: 0.7175
+
+Used PIS top 359 features. Average accuracy over 5-folds: 0.7476
+
+Used 359 random features. Average accuracy over 5-folds: 0.7157
+
+Used PIS top 360 features. Average accuracy over 5-folds: 0.7326
+
+Used 360 random features. Average accuracy over 5-folds: 0.7175
+
+Used PIS top 361 features. Average accuracy over 5-folds: 0.7382
+
+Used 361 random features. Average accuracy over 5-folds: 0.7477
+
+Used PIS top 362 features. Average accuracy over 5-folds: 0.7382
+
+Used 362 random features. Average accuracy over 5-folds: 0.7269
+
+Used PIS top 363 features. Average accuracy over 5-folds: 0.7458
+
+Used 363 random features. Average accuracy over 5-folds: 0.7213
+
+Used PIS top 364 features. Average accuracy over 5-folds: 0.7307
+
+Used 364 random features. Average accuracy over 5-folds: 0.7232
+
+Used PIS top 365 features. Average accuracy over 5-folds: 0.7439
+
+Used 365 random features. Average accuracy over 5-folds: 0.7270
+
+Used PIS top 366 features. Average accuracy over 5-folds: 0.7439
+
+Used 366 random features. Average accuracy over 5-folds: 0.7213
+
+Used PIS top 367 features. Average accuracy over 5-folds: 0.7326
+
+Used 367 random features. Average accuracy over 5-folds: 0.7251
+
+Used PIS top 368 features. Average accuracy over 5-folds: 0.7345
+
+Used 368 random features. Average accuracy over 5-folds: 0.7119
+
+Used PIS top 369 features. Average accuracy over 5-folds: 0.7458
+
+Used 369 random features. Average accuracy over 5-folds: 0.7288
+
+Used PIS top 370 features. Average accuracy over 5-folds: 0.7420
+
+Used 370 random features. Average accuracy over 5-folds: 0.7458
+
+Used PIS top 371 features. Average accuracy over 5-folds: 0.7363
+
+Used 371 random features. Average accuracy over 5-folds: 0.7345
+
+Used PIS top 372 features. Average accuracy over 5-folds: 0.7401
+
+Used 372 random features. Average accuracy over 5-folds: 0.7081
+
+Used PIS top 373 features. Average accuracy over 5-folds: 0.7289
+
+Used 373 random features. Average accuracy over 5-folds: 0.7213
+
+Used PIS top 374 features. Average accuracy over 5-folds: 0.7382
+
+Used 374 random features. Average accuracy over 5-folds: 0.7194
+
+Used PIS top 375 features. Average accuracy over 5-folds: 0.7439
+
+Used 375 random features. Average accuracy over 5-folds: 0.7401
+
+Used PIS top 376 features. Average accuracy over 5-folds: 0.7344
+
+Used 376 random features. Average accuracy over 5-folds: 0.7288
+
+Used PIS top 377 features. Average accuracy over 5-folds: 0.7363
+
+Used 377 random features. Average accuracy over 5-folds: 0.7345
+
+Used PIS top 378 features. Average accuracy over 5-folds: 0.7288
+
+Used 378 random features. Average accuracy over 5-folds: 0.7251
+
+Used PIS top 379 features. Average accuracy over 5-folds: 0.7514
+
+Used 379 random features. Average accuracy over 5-folds: 0.7307
+
+Used PIS top 380 features. Average accuracy over 5-folds: 0.7288
+
+Used 380 random features. Average accuracy over 5-folds: 0.7156
+
+Used PIS top 381 features. Average accuracy over 5-folds: 0.7401
+
+Used 381 random features. Average accuracy over 5-folds: 0.7194
+
+Used PIS top 382 features. Average accuracy over 5-folds: 0.7213
+
+Used 382 random features. Average accuracy over 5-folds: 0.7175
+
+Used PIS top 383 features. Average accuracy over 5-folds: 0.7363
+
+Used 383 random features. Average accuracy over 5-folds: 0.7326
+
+Used PIS top 384 features. Average accuracy over 5-folds: 0.7514
+
+Used 384 random features. Average accuracy over 5-folds: 0.7138
+
+Used PIS top 385 features. Average accuracy over 5-folds: 0.7364
+
+Used 385 random features. Average accuracy over 5-folds: 0.7269
+
+Used PIS top 386 features. Average accuracy over 5-folds: 0.7251
+
+Used 386 random features. Average accuracy over 5-folds: 0.7175
+
+Used PIS top 387 features. Average accuracy over 5-folds: 0.7383
+
+Used 387 random features. Average accuracy over 5-folds: 0.7194
+
+Used PIS top 388 features. Average accuracy over 5-folds: 0.7495
+
+Used 388 random features. Average accuracy over 5-folds: 0.7118
+
+Used PIS top 389 features. Average accuracy over 5-folds: 0.7250
+
+Used 389 random features. Average accuracy over 5-folds: 0.7213
+
+Used PIS top 390 features. Average accuracy over 5-folds: 0.7363
+
+Used 390 random features. Average accuracy over 5-folds: 0.7175
+
+Used PIS top 391 features. Average accuracy over 5-folds: 0.7401
+
+Used 391 random features. Average accuracy over 5-folds: 0.7232
+
+Used PIS top 392 features. Average accuracy over 5-folds: 0.7326
+
+Used 392 random features. Average accuracy over 5-folds: 0.7081
+
+Used PIS top 393 features. Average accuracy over 5-folds: 0.7457
+
+Used 393 random features. Average accuracy over 5-folds: 0.7401
+
+Used PIS top 394 features. Average accuracy over 5-folds: 0.7495
+
+Used 394 random features. Average accuracy over 5-folds: 0.7345
+
+Used PIS top 395 features. Average accuracy over 5-folds: 0.7382
+
+Used 395 random features. Average accuracy over 5-folds: 0.7269
+
+Used PIS top 396 features. Average accuracy over 5-folds: 0.7514
+
+Used 396 random features. Average accuracy over 5-folds: 0.7401
+
+Used PIS top 397 features. Average accuracy over 5-folds: 0.7477
+
+Used 397 random features. Average accuracy over 5-folds: 0.7307
+
+Used PIS top 398 features. Average accuracy over 5-folds: 0.7288
+
+Used 398 random features. Average accuracy over 5-folds: 0.7401
+
+Used PIS top 399 features. Average accuracy over 5-folds: 0.7270
+
+Used 399 random features. Average accuracy over 5-folds: 0.7081
+
+Used PIS top 400 features. Average accuracy over 5-folds: 0.7420
+
+Used 400 random features. Average accuracy over 5-folds: 0.7213
+
+Used PIS top 401 features. Average accuracy over 5-folds: 0.7382
+
+Used 401 random features. Average accuracy over 5-folds: 0.7307
+
+Used PIS top 402 features. Average accuracy over 5-folds: 0.7383
+
+Used 402 random features. Average accuracy over 5-folds: 0.7194
+
+Used PIS top 403 features. Average accuracy over 5-folds: 0.7382
+
+Used 403 random features. Average accuracy over 5-folds: 0.7269
+
+Used PIS top 404 features. Average accuracy over 5-folds: 0.7421
+
+Used 404 random features. Average accuracy over 5-folds: 0.7269
+
+Used PIS top 405 features. Average accuracy over 5-folds: 0.7402
+
+Used 405 random features. Average accuracy over 5-folds: 0.7213
+
+Used PIS top 406 features. Average accuracy over 5-folds: 0.7345
+
+Used 406 random features. Average accuracy over 5-folds: 0.7457
+
+Used PIS top 407 features. Average accuracy over 5-folds: 0.7382
+
+Used 407 random features. Average accuracy over 5-folds: 0.7269
+
+Used PIS top 408 features. Average accuracy over 5-folds: 0.7345
+
+Used 408 random features. Average accuracy over 5-folds: 0.7062
+
+Used PIS top 409 features. Average accuracy over 5-folds: 0.7345
+
+Used 409 random features. Average accuracy over 5-folds: 0.7213
+
+Used PIS top 410 features. Average accuracy over 5-folds: 0.7326
+
+Used 410 random features. Average accuracy over 5-folds: 0.7213
+
+Used PIS top 411 features. Average accuracy over 5-folds: 0.7364
+
+Used 411 random features. Average accuracy over 5-folds: 0.7251
+
+Used PIS top 412 features. Average accuracy over 5-folds: 0.7439
+
+Used 412 random features. Average accuracy over 5-folds: 0.7251
+
+Used PIS top 413 features. Average accuracy over 5-folds: 0.7401
+
+Used 413 random features. Average accuracy over 5-folds: 0.7288
+
+Used PIS top 414 features. Average accuracy over 5-folds: 0.7420
+
+Used 414 random features. Average accuracy over 5-folds: 0.7307
+
+Used PIS top 415 features. Average accuracy over 5-folds: 0.7363
+
+Used 415 random features. Average accuracy over 5-folds: 0.7326
+
+Used PIS top 416 features. Average accuracy over 5-folds: 0.7363
+
+Used 416 random features. Average accuracy over 5-folds: 0.7250
+
+Used PIS top 417 features. Average accuracy over 5-folds: 0.7269
+
+Used 417 random features. Average accuracy over 5-folds: 0.6987
+
+Used PIS top 418 features. Average accuracy over 5-folds: 0.7326
+
+Used 418 random features. Average accuracy over 5-folds: 0.7326
+
+Used PIS top 419 features. Average accuracy over 5-folds: 0.7514
+
+Used 419 random features. Average accuracy over 5-folds: 0.7175
+
+Used PIS top 420 features. Average accuracy over 5-folds: 0.7495
+
+Used 420 random features. Average accuracy over 5-folds: 0.7288
+
+Used PIS top 421 features. Average accuracy over 5-folds: 0.7382
+
+Used 421 random features. Average accuracy over 5-folds: 0.7269
+
+Used PIS top 422 features. Average accuracy over 5-folds: 0.7514
+
+Used 422 random features. Average accuracy over 5-folds: 0.7250
+
+Used PIS top 423 features. Average accuracy over 5-folds: 0.7533
+
+Used 423 random features. Average accuracy over 5-folds: 0.7288
+
+Used PIS top 424 features. Average accuracy over 5-folds: 0.7270
+
+Used 424 random features. Average accuracy over 5-folds: 0.7232
+
+Used PIS top 425 features. Average accuracy over 5-folds: 0.7458
+
+Used 425 random features. Average accuracy over 5-folds: 0.7307
+
+Used PIS top 426 features. Average accuracy over 5-folds: 0.7269
+
+Used 426 random features. Average accuracy over 5-folds: 0.7401
+
+Used PIS top 427 features. Average accuracy over 5-folds: 0.7307
+
+Used 427 random features. Average accuracy over 5-folds: 0.7081
+
+Used PIS top 428 features. Average accuracy over 5-folds: 0.7326
+
+Used 428 random features. Average accuracy over 5-folds: 0.7307
+
+Used PIS top 429 features. Average accuracy over 5-folds: 0.7363
+
+Used 429 random features. Average accuracy over 5-folds: 0.7420
+
+Used PIS top 430 features. Average accuracy over 5-folds: 0.7382
+
+Used 430 random features. Average accuracy over 5-folds: 0.7138
+
+Used PIS top 431 features. Average accuracy over 5-folds: 0.7363
+
+Used 431 random features. Average accuracy over 5-folds: 0.7138
+
+Used PIS top 432 features. Average accuracy over 5-folds: 0.7514
+
+Used 432 random features. Average accuracy over 5-folds: 0.7269
+
+Used PIS top 433 features. Average accuracy over 5-folds: 0.7250
+
+Used 433 random features. Average accuracy over 5-folds: 0.7251
+
+Used PIS top 434 features. Average accuracy over 5-folds: 0.7232
+
+Used 434 random features. Average accuracy over 5-folds: 0.7326
+
+Used PIS top 435 features. Average accuracy over 5-folds: 0.7194
+
+Used 435 random features. Average accuracy over 5-folds: 0.7288
+
+Used PIS top 436 features. Average accuracy over 5-folds: 0.7288
+
+Used 436 random features. Average accuracy over 5-folds: 0.7364
+
+Used PIS top 437 features. Average accuracy over 5-folds: 0.7364
+
+Used 437 random features. Average accuracy over 5-folds: 0.7270
+
+Used PIS top 438 features. Average accuracy over 5-folds: 0.7401
+
+Used 438 random features. Average accuracy over 5-folds: 0.7156
+
+Used PIS top 439 features. Average accuracy over 5-folds: 0.7306
+
+Used 439 random features. Average accuracy over 5-folds: 0.7175
+
+Used PIS top 440 features. Average accuracy over 5-folds: 0.7420
+
+Used 440 random features. Average accuracy over 5-folds: 0.7213
+
+Used PIS top 441 features. Average accuracy over 5-folds: 0.7363
+
+Used 441 random features. Average accuracy over 5-folds: 0.7251
+
+Used PIS top 442 features. Average accuracy over 5-folds: 0.7420
+
+Used 442 random features. Average accuracy over 5-folds: 0.7402
+
+Used PIS top 443 features. Average accuracy over 5-folds: 0.7458
+
+Used 443 random features. Average accuracy over 5-folds: 0.7232
+
+Used PIS top 444 features. Average accuracy over 5-folds: 0.7363
+
+Used 444 random features. Average accuracy over 5-folds: 0.7232
+
+Used PIS top 445 features. Average accuracy over 5-folds: 0.7420
+
+Used 445 random features. Average accuracy over 5-folds: 0.7156
+
+Used PIS top 446 features. Average accuracy over 5-folds: 0.7401
+
+Used 446 random features. Average accuracy over 5-folds: 0.7420
+
+Used PIS top 447 features. Average accuracy over 5-folds: 0.7364
+
+Used 447 random features. Average accuracy over 5-folds: 0.7213
+
+Used PIS top 448 features. Average accuracy over 5-folds: 0.7401
+
+Used 448 random features. Average accuracy over 5-folds: 0.7138
+
+Used PIS top 449 features. Average accuracy over 5-folds: 0.7364
+
+Used 449 random features. Average accuracy over 5-folds: 0.7175
+
+Used PIS top 450 features. Average accuracy over 5-folds: 0.7307
+
+Used 450 random features. Average accuracy over 5-folds: 0.7345
+
+Used PIS top 451 features. Average accuracy over 5-folds: 0.7458
+
+Used 451 random features. Average accuracy over 5-folds: 0.7194
+
+Used PIS top 452 features. Average accuracy over 5-folds: 0.7382
+
+Used 452 random features. Average accuracy over 5-folds: 0.7251
+
+Used PIS top 453 features. Average accuracy over 5-folds: 0.7364
+
+Used 453 random features. Average accuracy over 5-folds: 0.7345
+
+Used PIS top 454 features. Average accuracy over 5-folds: 0.7381
+
+Used 454 random features. Average accuracy over 5-folds: 0.7307
+
+Used PIS top 455 features. Average accuracy over 5-folds: 0.7382
+
+Used 455 random features. Average accuracy over 5-folds: 0.7251
+
+Used PIS top 456 features. Average accuracy over 5-folds: 0.7382
+
+Used 456 random features. Average accuracy over 5-folds: 0.7156
+
+Used PIS top 457 features. Average accuracy over 5-folds: 0.7514
+
+Used 457 random features. Average accuracy over 5-folds: 0.7250
+
+Used PIS top 458 features. Average accuracy over 5-folds: 0.7345
+
+Used 458 random features. Average accuracy over 5-folds: 0.7176
+
+Used PIS top 459 features. Average accuracy over 5-folds: 0.7476
+
+Used 459 random features. Average accuracy over 5-folds: 0.7326
+
+Used PIS top 460 features. Average accuracy over 5-folds: 0.7382
+
+Used 460 random features. Average accuracy over 5-folds: 0.7156
+
+Used PIS top 461 features. Average accuracy over 5-folds: 0.7251
+
+Used 461 random features. Average accuracy over 5-folds: 0.7363
+
+Used PIS top 462 features. Average accuracy over 5-folds: 0.7326
+
+Used 462 random features. Average accuracy over 5-folds: 0.7307
+
+Used PIS top 463 features. Average accuracy over 5-folds: 0.7420
+
+Used 463 random features. Average accuracy over 5-folds: 0.7326
+
+Used PIS top 464 features. Average accuracy over 5-folds: 0.7345
+
+Used 464 random features. Average accuracy over 5-folds: 0.7176
+
+Used PIS top 465 features. Average accuracy over 5-folds: 0.7401
+
+Used 465 random features. Average accuracy over 5-folds: 0.7269
+
+Used PIS top 466 features. Average accuracy over 5-folds: 0.7420
+
+Used 466 random features. Average accuracy over 5-folds: 0.7288
+
+Used PIS top 467 features. Average accuracy over 5-folds: 0.7363
+
+Used 467 random features. Average accuracy over 5-folds: 0.7288
+
+Used PIS top 468 features. Average accuracy over 5-folds: 0.7326
+
+Used 468 random features. Average accuracy over 5-folds: 0.7288
+
+Used PIS top 469 features. Average accuracy over 5-folds: 0.7345
+
+Used 469 random features. Average accuracy over 5-folds: 0.7213
+
+Used PIS top 470 features. Average accuracy over 5-folds: 0.7401
+
+Used 470 random features. Average accuracy over 5-folds: 0.7081
+
+Used PIS top 471 features. Average accuracy over 5-folds: 0.7344
+
+Used 471 random features. Average accuracy over 5-folds: 0.7194
+
+Used PIS top 472 features. Average accuracy over 5-folds: 0.7363
+
+Used 472 random features. Average accuracy over 5-folds: 0.7363
+
+Used PIS top 473 features. Average accuracy over 5-folds: 0.7439
+
+Used 473 random features. Average accuracy over 5-folds: 0.7156
+
+Used PIS top 474 features. Average accuracy over 5-folds: 0.7363
+
+Used 474 random features. Average accuracy over 5-folds: 0.7288
+
+Used PIS top 475 features. Average accuracy over 5-folds: 0.7382
+
+Used 475 random features. Average accuracy over 5-folds: 0.7326
+
+Used PIS top 476 features. Average accuracy over 5-folds: 0.7439
+
+Used 476 random features. Average accuracy over 5-folds: 0.7307
+
+Used PIS top 477 features. Average accuracy over 5-folds: 0.7175
+
+Used 477 random features. Average accuracy over 5-folds: 0.7213
+
+Used PIS top 478 features. Average accuracy over 5-folds: 0.7364
+
+Used 478 random features. Average accuracy over 5-folds: 0.7231
+
+Used PIS top 479 features. Average accuracy over 5-folds: 0.7382
+
+Used 479 random features. Average accuracy over 5-folds: 0.7100
+
+Used PIS top 480 features. Average accuracy over 5-folds: 0.7495
+
+Used 480 random features. Average accuracy over 5-folds: 0.7156
+
+Used PIS top 481 features. Average accuracy over 5-folds: 0.7439
+
+Used 481 random features. Average accuracy over 5-folds: 0.7363
+
+Used PIS top 482 features. Average accuracy over 5-folds: 0.7382
+
+Used 482 random features. Average accuracy over 5-folds: 0.7364
+
+Used PIS top 483 features. Average accuracy over 5-folds: 0.7250
+
+Used 483 random features. Average accuracy over 5-folds: 0.7289
+
+Used PIS top 484 features. Average accuracy over 5-folds: 0.7382
+
+Used 484 random features. Average accuracy over 5-folds: 0.7345
+
+Used PIS top 485 features. Average accuracy over 5-folds: 0.7345
+
+Used 485 random features. Average accuracy over 5-folds: 0.7269
+
+Used PIS top 486 features. Average accuracy over 5-folds: 0.7383
+
+Used 486 random features. Average accuracy over 5-folds: 0.7156
+
+Used PIS top 487 features. Average accuracy over 5-folds: 0.7308
+
+Used 487 random features. Average accuracy over 5-folds: 0.7194
+
+Used PIS top 488 features. Average accuracy over 5-folds: 0.7495
+
+Used 488 random features. Average accuracy over 5-folds: 0.7081
+
+Used PIS top 489 features. Average accuracy over 5-folds: 0.7363
+
+Used 489 random features. Average accuracy over 5-folds: 0.7326
+
+Used PIS top 490 features. Average accuracy over 5-folds: 0.7402
+
+Used 490 random features. Average accuracy over 5-folds: 0.7345
+
+Used PIS top 491 features. Average accuracy over 5-folds: 0.7420
+
+Used 491 random features. Average accuracy over 5-folds: 0.7156
+
+Used PIS top 492 features. Average accuracy over 5-folds: 0.7344
+
+Used 492 random features. Average accuracy over 5-folds: 0.7156
+
+Used PIS top 493 features. Average accuracy over 5-folds: 0.7326
+
+Used 493 random features. Average accuracy over 5-folds: 0.7288
+
+Used PIS top 494 features. Average accuracy over 5-folds: 0.7307
+
+Used 494 random features. Average accuracy over 5-folds: 0.7232
+
+Used PIS top 495 features. Average accuracy over 5-folds: 0.7438
+
+Used 495 random features. Average accuracy over 5-folds: 0.7288
+
+Used PIS top 496 features. Average accuracy over 5-folds: 0.7420
+
+Used 496 random features. Average accuracy over 5-folds: 0.7175
+
+Used PIS top 497 features. Average accuracy over 5-folds: 0.7288
+
+Used 497 random features. Average accuracy over 5-folds: 0.7232
+
+Used PIS top 498 features. Average accuracy over 5-folds: 0.7213
+
+Used 498 random features. Average accuracy over 5-folds: 0.7401
+
+Used PIS top 499 features. Average accuracy over 5-folds: 0.7307
+
+Used 499 random features. Average accuracy over 5-folds: 0.7232
+
+Used PIS top 500 features. Average accuracy over 5-folds: 0.7382
+
+Used 500 random features. Average accuracy over 5-folds: 0.7269
+
+Used PIS top 501 features. Average accuracy over 5-folds: 0.7288
+
+Used 501 random features. Average accuracy over 5-folds: 0.7364
+
+Used PIS top 502 features. Average accuracy over 5-folds: 0.7326
+
+Used 502 random features. Average accuracy over 5-folds: 0.7269
+
+Used PIS top 503 features. Average accuracy over 5-folds: 0.7401
+
+Used 503 random features. Average accuracy over 5-folds: 0.7269
+
+Used PIS top 504 features. Average accuracy over 5-folds: 0.7476
+
+Used 504 random features. Average accuracy over 5-folds: 0.7232
+
+Used PIS top 505 features. Average accuracy over 5-folds: 0.7383
+
+Used 505 random features. Average accuracy over 5-folds: 0.7364
+
+Used PIS top 506 features. Average accuracy over 5-folds: 0.7363
+
+Used 506 random features. Average accuracy over 5-folds: 0.7175
+
+Used PIS top 507 features. Average accuracy over 5-folds: 0.7288
+
+Used 507 random features. Average accuracy over 5-folds: 0.7175
+
+Used PIS top 508 features. Average accuracy over 5-folds: 0.7288
+
+Used 508 random features. Average accuracy over 5-folds: 0.7194
+
+Used PIS top 509 features. Average accuracy over 5-folds: 0.7383
+
+Used 509 random features. Average accuracy over 5-folds: 0.7420
+
+Used PIS top 510 features. Average accuracy over 5-folds: 0.7402
+
+Used 510 random features. Average accuracy over 5-folds: 0.7270
+
+Used PIS top 511 features. Average accuracy over 5-folds: 0.7250
+
+Used 511 random features. Average accuracy over 5-folds: 0.7250
+
+Used PIS top 512 features. Average accuracy over 5-folds: 0.7307
+
+Used 512 random features. Average accuracy over 5-folds: 0.7251
+
+Used PIS top 513 features. Average accuracy over 5-folds: 0.7326
+
+Used 513 random features. Average accuracy over 5-folds: 0.7250
+
+Used PIS top 514 features. Average accuracy over 5-folds: 0.7326
+
+Used 514 random features. Average accuracy over 5-folds: 0.7420
+
+Used PIS top 515 features. Average accuracy over 5-folds: 0.7269
+
+Used 515 random features. Average accuracy over 5-folds: 0.7457
+
+Used PIS top 516 features. Average accuracy over 5-folds: 0.7364
+
+Used 516 random features. Average accuracy over 5-folds: 0.7288
+
+Used PIS top 517 features. Average accuracy over 5-folds: 0.7288
+
+Used 517 random features. Average accuracy over 5-folds: 0.7345
+
+Used PIS top 518 features. Average accuracy over 5-folds: 0.7401
+
+Used 518 random features. Average accuracy over 5-folds: 0.7307
+
+Used PIS top 519 features. Average accuracy over 5-folds: 0.7307
+
+Used 519 random features. Average accuracy over 5-folds: 0.7288
+
+Used PIS top 520 features. Average accuracy over 5-folds: 0.7345
+
+Used 520 random features. Average accuracy over 5-folds: 0.7138
+
+Used PIS top 521 features. Average accuracy over 5-folds: 0.7232
+
+Used 521 random features. Average accuracy over 5-folds: 0.7269
+
+Used PIS top 522 features. Average accuracy over 5-folds: 0.7269
+
+Used 522 random features. Average accuracy over 5-folds: 0.7175
+
+Used PIS top 523 features. Average accuracy over 5-folds: 0.7288
+
+Used 523 random features. Average accuracy over 5-folds: 0.7269
+
+Used PIS top 524 features. Average accuracy over 5-folds: 0.7495
+
+Used 524 random features. Average accuracy over 5-folds: 0.7137
+
+Used PIS top 525 features. Average accuracy over 5-folds: 0.7477
+
+Used 525 random features. Average accuracy over 5-folds: 0.7232
+
+Used PIS top 526 features. Average accuracy over 5-folds: 0.7382
+
+Used 526 random features. Average accuracy over 5-folds: 0.7119
+
+Used PIS top 527 features. Average accuracy over 5-folds: 0.7458
+
+Used 527 random features. Average accuracy over 5-folds: 0.7345
+
+Used PIS top 528 features. Average accuracy over 5-folds: 0.7439
+
+Used 528 random features. Average accuracy over 5-folds: 0.7100
+
+Used PIS top 529 features. Average accuracy over 5-folds: 0.7288
+
+Used 529 random features. Average accuracy over 5-folds: 0.7194
+
+Used PIS top 530 features. Average accuracy over 5-folds: 0.7458
+
+Used 530 random features. Average accuracy over 5-folds: 0.7194
+
+Used PIS top 531 features. Average accuracy over 5-folds: 0.7270
+
+Used 531 random features. Average accuracy over 5-folds: 0.7175
+
+Used PIS top 532 features. Average accuracy over 5-folds: 0.7288
+
+Used 532 random features. Average accuracy over 5-folds: 0.7175
+
+Used PIS top 533 features. Average accuracy over 5-folds: 0.7419
+
+Used 533 random features. Average accuracy over 5-folds: 0.7363
+
+Used PIS top 534 features. Average accuracy over 5-folds: 0.7364
+
+Used 534 random features. Average accuracy over 5-folds: 0.7345
+
+Used PIS top 535 features. Average accuracy over 5-folds: 0.7420
+
+Used 535 random features. Average accuracy over 5-folds: 0.7119
+
+Used PIS top 536 features. Average accuracy over 5-folds: 0.7326
+
+Used 536 random features. Average accuracy over 5-folds: 0.7364
+
+Used PIS top 537 features. Average accuracy over 5-folds: 0.7307
+
+Used 537 random features. Average accuracy over 5-folds: 0.7439
+
+Used PIS top 538 features. Average accuracy over 5-folds: 0.7269
+
+Used 538 random features. Average accuracy over 5-folds: 0.7251
+
+Used PIS top 539 features. Average accuracy over 5-folds: 0.7288
+
+Used 539 random features. Average accuracy over 5-folds: 0.7232
+
+Used PIS top 540 features. Average accuracy over 5-folds: 0.7382
+
+Used 540 random features. Average accuracy over 5-folds: 0.7194
+
+Used PIS top 541 features. Average accuracy over 5-folds: 0.7401
+
+Used 541 random features. Average accuracy over 5-folds: 0.7175
+
+Used PIS top 542 features. Average accuracy over 5-folds: 0.7419
+
+Used 542 random features. Average accuracy over 5-folds: 0.7420
+
+Used PIS top 543 features. Average accuracy over 5-folds: 0.7345
+
+Used 543 random features. Average accuracy over 5-folds: 0.7232
+
+Used PIS top 544 features. Average accuracy over 5-folds: 0.7363
+
+Used 544 random features. Average accuracy over 5-folds: 0.7156
+
+Used PIS top 545 features. Average accuracy over 5-folds: 0.7345
+
+Used 545 random features. Average accuracy over 5-folds: 0.7213
+
+Used PIS top 546 features. Average accuracy over 5-folds: 0.7401
+
+Used 546 random features. Average accuracy over 5-folds: 0.7250
+
+Used PIS top 547 features. Average accuracy over 5-folds: 0.7288
+
+Used 547 random features. Average accuracy over 5-folds: 0.7364
+
+Used PIS top 548 features. Average accuracy over 5-folds: 0.7288
+
+Used 548 random features. Average accuracy over 5-folds: 0.7345
+
+Used PIS top 549 features. Average accuracy over 5-folds: 0.7401
+
+Used 549 random features. Average accuracy over 5-folds: 0.7250
+
+Used PIS top 550 features. Average accuracy over 5-folds: 0.7326
+
+Used 550 random features. Average accuracy over 5-folds: 0.7345
+
+Used PIS top 551 features. Average accuracy over 5-folds: 0.7269
+
+Used 551 random features. Average accuracy over 5-folds: 0.7232
+
+Used PIS top 552 features. Average accuracy over 5-folds: 0.7345
+
+Used 552 random features. Average accuracy over 5-folds: 0.7326
+
+Used PIS top 553 features. Average accuracy over 5-folds: 0.7420
+
+Used 553 random features. Average accuracy over 5-folds: 0.7364
+
+Used PIS top 554 features. Average accuracy over 5-folds: 0.7420
+
+Used 554 random features. Average accuracy over 5-folds: 0.7232
+
+Used PIS top 555 features. Average accuracy over 5-folds: 0.7345
+
+Used 555 random features. Average accuracy over 5-folds: 0.7288
+
+Used PIS top 556 features. Average accuracy over 5-folds: 0.7402
+
+Used 556 random features. Average accuracy over 5-folds: 0.7194
+
+Used PIS top 557 features. Average accuracy over 5-folds: 0.7344
+
+Used 557 random features. Average accuracy over 5-folds: 0.7269
+
+Used PIS top 558 features. Average accuracy over 5-folds: 0.7420
+
+Used 558 random features. Average accuracy over 5-folds: 0.7194
+
+Used PIS top 559 features. Average accuracy over 5-folds: 0.7401
+
+Used 559 random features. Average accuracy over 5-folds: 0.7270
+
+Used PIS top 560 features. Average accuracy over 5-folds: 0.7401
+
+Used 560 random features. Average accuracy over 5-folds: 0.7401
+
+Used PIS top 561 features. Average accuracy over 5-folds: 0.7307
+
+Used 561 random features. Average accuracy over 5-folds: 0.7194
+
+Used PIS top 562 features. Average accuracy over 5-folds: 0.7364
+
+Used 562 random features. Average accuracy over 5-folds: 0.7287
+
+Used PIS top 563 features. Average accuracy over 5-folds: 0.7383
+
+Used 563 random features. Average accuracy over 5-folds: 0.7213
+
+Used PIS top 564 features. Average accuracy over 5-folds: 0.7232
+
+Used 564 random features. Average accuracy over 5-folds: 0.7119
+
+Used PIS top 565 features. Average accuracy over 5-folds: 0.7307
+
+Used 565 random features. Average accuracy over 5-folds: 0.7138
+
+Used PIS top 566 features. Average accuracy over 5-folds: 0.7307
+
+Used 566 random features. Average accuracy over 5-folds: 0.7288
+
+Used PIS top 567 features. Average accuracy over 5-folds: 0.7288
+
+Used 567 random features. Average accuracy over 5-folds: 0.7307
+
+Used PIS top 568 features. Average accuracy over 5-folds: 0.7326
+
+Used 568 random features. Average accuracy over 5-folds: 0.7307
+
+Used PIS top 569 features. Average accuracy over 5-folds: 0.7269
+
+Used 569 random features. Average accuracy over 5-folds: 0.7194
+
+Used PIS top 570 features. Average accuracy over 5-folds: 0.7307
+
+Used 570 random features. Average accuracy over 5-folds: 0.7308
+
+Used PIS top 571 features. Average accuracy over 5-folds: 0.7269
+
+Used 571 random features. Average accuracy over 5-folds: 0.7288
+
+Used PIS top 572 features. Average accuracy over 5-folds: 0.7345
+
+Used 572 random features. Average accuracy over 5-folds: 0.7194
+
+Used PIS top 573 features. Average accuracy over 5-folds: 0.7363
+
+Used 573 random features. Average accuracy over 5-folds: 0.7251
+
+Used PIS top 574 features. Average accuracy over 5-folds: 0.7326
+
+Used 574 random features. Average accuracy over 5-folds: 0.7288
+
+Used PIS top 575 features. Average accuracy over 5-folds: 0.7326
+
+Used 575 random features. Average accuracy over 5-folds: 0.7175
+
+Used PIS top 576 features. Average accuracy over 5-folds: 0.7382
+
+Used 576 random features. Average accuracy over 5-folds: 0.7175
+
+Used PIS top 577 features. Average accuracy over 5-folds: 0.7364
+
+Used 577 random features. Average accuracy over 5-folds: 0.7420
+
+Used PIS top 578 features. Average accuracy over 5-folds: 0.7175
+
+Used 578 random features. Average accuracy over 5-folds: 0.7175
+
+Used PIS top 579 features. Average accuracy over 5-folds: 0.7402
+
+Used 579 random features. Average accuracy over 5-folds: 0.7326
+
+Used PIS top 580 features. Average accuracy over 5-folds: 0.7345
+
+Used 580 random features. Average accuracy over 5-folds: 0.7363
+
+Used PIS top 581 features. Average accuracy over 5-folds: 0.7363
+
+Used 581 random features. Average accuracy over 5-folds: 0.7269
+
+Used PIS top 582 features. Average accuracy over 5-folds: 0.7326
+
+Used 582 random features. Average accuracy over 5-folds: 0.7345
+
+Used PIS top 583 features. Average accuracy over 5-folds: 0.7307
+
+Used 583 random features. Average accuracy over 5-folds: 0.7307
+
+Used PIS top 584 features. Average accuracy over 5-folds: 0.7382
+
+Used 584 random features. Average accuracy over 5-folds: 0.7288
+
+Used PIS top 585 features. Average accuracy over 5-folds: 0.7232
+
+Used 585 random features. Average accuracy over 5-folds: 0.7307
+
+Used PIS top 586 features. Average accuracy over 5-folds: 0.7363
+
+Used 586 random features. Average accuracy over 5-folds: 0.7420
+
+Used PIS top 587 features. Average accuracy over 5-folds: 0.7289
+
+Used 587 random features. Average accuracy over 5-folds: 0.7213
+
+Used PIS top 588 features. Average accuracy over 5-folds: 0.7326
+
+Used 588 random features. Average accuracy over 5-folds: 0.7326
+
+Used PIS top 589 features. Average accuracy over 5-folds: 0.7307
+
+Used 589 random features. Average accuracy over 5-folds: 0.7269
+
+Used PIS top 590 features. Average accuracy over 5-folds: 0.7251
+
+Used 590 random features. Average accuracy over 5-folds: 0.7194
+
+Used PIS top 591 features. Average accuracy over 5-folds: 0.7250
+
+Used 591 random features. Average accuracy over 5-folds: 0.7176
+
+Used PIS top 592 features. Average accuracy over 5-folds: 0.7307
+
+Used 592 random features. Average accuracy over 5-folds: 0.7251
+
+Used PIS top 593 features. Average accuracy over 5-folds: 0.7251
+
+Used 593 random features. Average accuracy over 5-folds: 0.7307
+
+Used PIS top 594 features. Average accuracy over 5-folds: 0.7251
+
+Used 594 random features. Average accuracy over 5-folds: 0.7232
+
+Used PIS top 595 features. Average accuracy over 5-folds: 0.7345
+
+Used 595 random features. Average accuracy over 5-folds: 0.7307
+
+Used PIS top 596 features. Average accuracy over 5-folds: 0.7496
+
+Used 596 random features. Average accuracy over 5-folds: 0.7345
+
+Used PIS top 597 features. Average accuracy over 5-folds: 0.7269
+
+Used 597 random features. Average accuracy over 5-folds: 0.7138
+
+Used PIS top 598 features. Average accuracy over 5-folds: 0.7213
+
+Used 598 random features. Average accuracy over 5-folds: 0.7364
+
+Used PIS top 599 features. Average accuracy over 5-folds: 0.7363
+
+Used 599 random features. Average accuracy over 5-folds: 0.7326
+
+Used PIS top 600 features. Average accuracy over 5-folds: 0.7326
+
+Used 600 random features. Average accuracy over 5-folds: 0.7156
+
+Used PIS top 601 features. Average accuracy over 5-folds: 0.7251
+
+Used 601 random features. Average accuracy over 5-folds: 0.7364
+
+Used PIS top 602 features. Average accuracy over 5-folds: 0.7270
+
+Used 602 random features. Average accuracy over 5-folds: 0.7382
+
+Used PIS top 603 features. Average accuracy over 5-folds: 0.7382
+
+Used 603 random features. Average accuracy over 5-folds: 0.7194
+
+Used PIS top 604 features. Average accuracy over 5-folds: 0.7269
+
+Used 604 random features. Average accuracy over 5-folds: 0.7288
+
+Used PIS top 605 features. Average accuracy over 5-folds: 0.7251
+
+Used 605 random features. Average accuracy over 5-folds: 0.7118
+
+Used PIS top 606 features. Average accuracy over 5-folds: 0.7307
+
+Used 606 random features. Average accuracy over 5-folds: 0.7119
+
+Used PIS top 607 features. Average accuracy over 5-folds: 0.7288
+
+Used 607 random features. Average accuracy over 5-folds: 0.7175
+
+Used PIS top 608 features. Average accuracy over 5-folds: 0.7307
+
+Used 608 random features. Average accuracy over 5-folds: 0.7307
+
+Used PIS top 609 features. Average accuracy over 5-folds: 0.7325
+
+Used 609 random features. Average accuracy over 5-folds: 0.7382
+
+Used PIS top 610 features. Average accuracy over 5-folds: 0.7382
+
+Used 610 random features. Average accuracy over 5-folds: 0.7232
+
+Used PIS top 611 features. Average accuracy over 5-folds: 0.7383
+
+Used 611 random features. Average accuracy over 5-folds: 0.7213
+
+Used PIS top 612 features. Average accuracy over 5-folds: 0.7401
+
+Used 612 random features. Average accuracy over 5-folds: 0.7251
+
+Used PIS top 613 features. Average accuracy over 5-folds: 0.7232
+
+Used 613 random features. Average accuracy over 5-folds: 0.7364
+
+Used PIS top 614 features. Average accuracy over 5-folds: 0.7345
+
+Used 614 random features. Average accuracy over 5-folds: 0.7269
+
+Used PIS top 615 features. Average accuracy over 5-folds: 0.7401
+
+Used 615 random features. Average accuracy over 5-folds: 0.7345
+
+Used PIS top 616 features. Average accuracy over 5-folds: 0.7326
+
+Used 616 random features. Average accuracy over 5-folds: 0.7269
+
+Used PIS top 617 features. Average accuracy over 5-folds: 0.7269
+
+Used 617 random features. Average accuracy over 5-folds: 0.7344
+
+Used PIS top 618 features. Average accuracy over 5-folds: 0.7288
+
+Used 618 random features. Average accuracy over 5-folds: 0.7269
+
+Used PIS top 619 features. Average accuracy over 5-folds: 0.7288
+
+Used 619 random features. Average accuracy over 5-folds: 0.7288
+
+Used PIS top 620 features. Average accuracy over 5-folds: 0.7439
+
+Used 620 random features. Average accuracy over 5-folds: 0.7363
+
+Used PIS top 621 features. Average accuracy over 5-folds: 0.7194
+
+Used 621 random features. Average accuracy over 5-folds: 0.7213
+
+Used PIS top 622 features. Average accuracy over 5-folds: 0.7438
+
+Used 622 random features. Average accuracy over 5-folds: 0.7194
+
+Used PIS top 623 features. Average accuracy over 5-folds: 0.7288
+
+Used 623 random features. Average accuracy over 5-folds: 0.7156
+
+Used PIS top 624 features. Average accuracy over 5-folds: 0.7402
+
+Used 624 random features. Average accuracy over 5-folds: 0.7175
+
+Used PIS top 625 features. Average accuracy over 5-folds: 0.7364
+
+Used 625 random features. Average accuracy over 5-folds: 0.7157
+
+Used PIS top 626 features. Average accuracy over 5-folds: 0.7401
+
+Used 626 random features. Average accuracy over 5-folds: 0.7270
+
+Used PIS top 627 features. Average accuracy over 5-folds: 0.7345
+
+Used 627 random features. Average accuracy over 5-folds: 0.7175
+
+Used PIS top 628 features. Average accuracy over 5-folds: 0.7439
+
+Used 628 random features. Average accuracy over 5-folds: 0.7251
+
+Used PIS top 629 features. Average accuracy over 5-folds: 0.7269
+
+Used 629 random features. Average accuracy over 5-folds: 0.7420
+
+Used PIS top 630 features. Average accuracy over 5-folds: 0.7364
+
+Used 630 random features. Average accuracy over 5-folds: 0.7232
+
+Used PIS top 631 features. Average accuracy over 5-folds: 0.7326
+
+Used 631 random features. Average accuracy over 5-folds: 0.7288
+
+Used PIS top 632 features. Average accuracy over 5-folds: 0.7326
+
+Used 632 random features. Average accuracy over 5-folds: 0.7326
+
+Used PIS top 633 features. Average accuracy over 5-folds: 0.7363
+
+Used 633 random features. Average accuracy over 5-folds: 0.7213
+
+Used PIS top 634 features. Average accuracy over 5-folds: 0.7345
+
+Used 634 random features. Average accuracy over 5-folds: 0.7269
+
+Used PIS top 635 features. Average accuracy over 5-folds: 0.7307
+
+Used 635 random features. Average accuracy over 5-folds: 0.7326
+
+Used PIS top 636 features. Average accuracy over 5-folds: 0.7326
+
+Used 636 random features. Average accuracy over 5-folds: 0.7194
+
+Used PIS top 637 features. Average accuracy over 5-folds: 0.7269
+
+Used 637 random features. Average accuracy over 5-folds: 0.7270
+
+Used PIS top 638 features. Average accuracy over 5-folds: 0.7288
+
+Used 638 random features. Average accuracy over 5-folds: 0.7326
+
+Used PIS top 639 features. Average accuracy over 5-folds: 0.7345
+
+Used 639 random features. Average accuracy over 5-folds: 0.7364
+
+Used PIS top 640 features. Average accuracy over 5-folds: 0.7307
+
+Used 640 random features. Average accuracy over 5-folds: 0.7251
+
+Used PIS top 641 features. Average accuracy over 5-folds: 0.7326
+
+Used 641 random features. Average accuracy over 5-folds: 0.7307
+
+Used PIS top 642 features. Average accuracy over 5-folds: 0.7251
+
+Used 642 random features. Average accuracy over 5-folds: 0.7364
+
+Used PIS top 643 features. Average accuracy over 5-folds: 0.7401
+
+Used 643 random features. Average accuracy over 5-folds: 0.7213
+
+Used PIS top 644 features. Average accuracy over 5-folds: 0.7288
+
+Used 644 random features. Average accuracy over 5-folds: 0.7118
+
+Used PIS top 645 features. Average accuracy over 5-folds: 0.7364
+
+Used 645 random features. Average accuracy over 5-folds: 0.7345
+
+Used PIS top 646 features. Average accuracy over 5-folds: 0.7401
+
+Used 646 random features. Average accuracy over 5-folds: 0.7269
+
+Used PIS top 647 features. Average accuracy over 5-folds: 0.7307
+
+Used 647 random features. Average accuracy over 5-folds: 0.7288
+
+Used PIS top 648 features. Average accuracy over 5-folds: 0.7345
+
+Used 648 random features. Average accuracy over 5-folds: 0.7251
+
+Used PIS top 649 features. Average accuracy over 5-folds: 0.7439
+
+Used 649 random features. Average accuracy over 5-folds: 0.7326
+
+Used PIS top 650 features. Average accuracy over 5-folds: 0.7363
+
+Used 650 random features. Average accuracy over 5-folds: 0.7157
+
+Used PIS top 651 features. Average accuracy over 5-folds: 0.7251
+
+Used 651 random features. Average accuracy over 5-folds: 0.7364
+
+Used PIS top 652 features. Average accuracy over 5-folds: 0.7344
+
+Used 652 random features. Average accuracy over 5-folds: 0.7175
+
+Used PIS top 653 features. Average accuracy over 5-folds: 0.7364
+
+Used 653 random features. Average accuracy over 5-folds: 0.7213
+
+Used PIS top 654 features. Average accuracy over 5-folds: 0.7345
+
+Used 654 random features. Average accuracy over 5-folds: 0.7364
+
+Used PIS top 655 features. Average accuracy over 5-folds: 0.7345
+
+Used 655 random features. Average accuracy over 5-folds: 0.7307
+
+Used PIS top 656 features. Average accuracy over 5-folds: 0.7326
+
+Used 656 random features. Average accuracy over 5-folds: 0.7175
+
+Used PIS top 657 features. Average accuracy over 5-folds: 0.7288
+
+Used 657 random features. Average accuracy over 5-folds: 0.7288
+
+Used PIS top 658 features. Average accuracy over 5-folds: 0.7288
+
+Used 658 random features. Average accuracy over 5-folds: 0.7194
+
+Used PIS top 659 features. Average accuracy over 5-folds: 0.7232
+
+Used 659 random features. Average accuracy over 5-folds: 0.7194
+
+Used PIS top 660 features. Average accuracy over 5-folds: 0.7382
+
+Used 660 random features. Average accuracy over 5-folds: 0.7326
+
+Used PIS top 661 features. Average accuracy over 5-folds: 0.7383
+
+Used 661 random features. Average accuracy over 5-folds: 0.7269
+
+Used PIS top 662 features. Average accuracy over 5-folds: 0.7251
+
+Used 662 random features. Average accuracy over 5-folds: 0.7194
+
+Used PIS top 663 features. Average accuracy over 5-folds: 0.7288
+
+Used 663 random features. Average accuracy over 5-folds: 0.7194
+
+Used PIS top 664 features. Average accuracy over 5-folds: 0.7213
+
+Used 664 random features. Average accuracy over 5-folds: 0.7138
+
+Used PIS top 665 features. Average accuracy over 5-folds: 0.7213
+
+Used 665 random features. Average accuracy over 5-folds: 0.7232
+
+Used PIS top 666 features. Average accuracy over 5-folds: 0.7345
+
+Used 666 random features. Average accuracy over 5-folds: 0.7251
+
+Used PIS top 667 features. Average accuracy over 5-folds: 0.7363
+
+Used 667 random features. Average accuracy over 5-folds: 0.7345
+
+Used PIS top 668 features. Average accuracy over 5-folds: 0.7364
+
+Used 668 random features. Average accuracy over 5-folds: 0.7175
+
+Used PIS top 669 features. Average accuracy over 5-folds: 0.7307
+
+Used 669 random features. Average accuracy over 5-folds: 0.7288
+
+Used PIS top 670 features. Average accuracy over 5-folds: 0.7402
+
+Used 670 random features. Average accuracy over 5-folds: 0.7307
+
+Used PIS top 671 features. Average accuracy over 5-folds: 0.7307
+
+Used 671 random features. Average accuracy over 5-folds: 0.7364
+
+Used PIS top 672 features. Average accuracy over 5-folds: 0.7364
+
+Used 672 random features. Average accuracy over 5-folds: 0.7213
+
+Used PIS top 673 features. Average accuracy over 5-folds: 0.7326
+
+Used 673 random features. Average accuracy over 5-folds: 0.7232
+
+Used PIS top 674 features. Average accuracy over 5-folds: 0.7383
+
+Used 674 random features. Average accuracy over 5-folds: 0.7250
+
+Used PIS top 675 features. Average accuracy over 5-folds: 0.7269
+
+Used 675 random features. Average accuracy over 5-folds: 0.7213
+
+Used PIS top 676 features. Average accuracy over 5-folds: 0.7288
+
+Used 676 random features. Average accuracy over 5-folds: 0.7345
+
+Used PIS top 677 features. Average accuracy over 5-folds: 0.7420
+
+Used 677 random features. Average accuracy over 5-folds: 0.7251
+
+Used PIS top 678 features. Average accuracy over 5-folds: 0.7270
+
+Used 678 random features. Average accuracy over 5-folds: 0.7232
+
+Used PIS top 679 features. Average accuracy over 5-folds: 0.7345
+
+Used 679 random features. Average accuracy over 5-folds: 0.7382
+
+Used PIS top 680 features. Average accuracy over 5-folds: 0.7288
+
+Used 680 random features. Average accuracy over 5-folds: 0.7100
+
+Used PIS top 681 features. Average accuracy over 5-folds: 0.7326
+
+Used 681 random features. Average accuracy over 5-folds: 0.7251
+
+Used PIS top 682 features. Average accuracy over 5-folds: 0.7307
+
+Used 682 random features. Average accuracy over 5-folds: 0.7213
+
+Used PIS top 683 features. Average accuracy over 5-folds: 0.7364
+
+Used 683 random features. Average accuracy over 5-folds: 0.7269
+
+Used PIS top 684 features. Average accuracy over 5-folds: 0.7307
+
+Used 684 random features. Average accuracy over 5-folds: 0.7307
+
+Used PIS top 685 features. Average accuracy over 5-folds: 0.7458
+
+Used 685 random features. Average accuracy over 5-folds: 0.7232
+
+Used PIS top 686 features. Average accuracy over 5-folds: 0.7307
+
+Used 686 random features. Average accuracy over 5-folds: 0.7232
+
+Used PIS top 687 features. Average accuracy over 5-folds: 0.7401
+
+Used 687 random features. Average accuracy over 5-folds: 0.7213
+
+Used PIS top 688 features. Average accuracy over 5-folds: 0.7401
+
+Used 688 random features. Average accuracy over 5-folds: 0.7251
+
+Used PIS top 689 features. Average accuracy over 5-folds: 0.7458
+
+Used 689 random features. Average accuracy over 5-folds: 0.7269
+
+Used PIS top 690 features. Average accuracy over 5-folds: 0.7194
+
+Used 690 random features. Average accuracy over 5-folds: 0.7307
+
+Used PIS top 691 features. Average accuracy over 5-folds: 0.7364
+
+Used 691 random features. Average accuracy over 5-folds: 0.7213
+
+Used PIS top 692 features. Average accuracy over 5-folds: 0.7420
+
+Used 692 random features. Average accuracy over 5-folds: 0.7213
+
+Used PIS top 693 features. Average accuracy over 5-folds: 0.7232
+
+Used 693 random features. Average accuracy over 5-folds: 0.7288
+
+Used PIS top 694 features. Average accuracy over 5-folds: 0.7326
+
+Used 694 random features. Average accuracy over 5-folds: 0.7213
+
+Used PIS top 695 features. Average accuracy over 5-folds: 0.7270
+
+Used 695 random features. Average accuracy over 5-folds: 0.7194
+
+Used PIS top 696 features. Average accuracy over 5-folds: 0.7213
+
+Used 696 random features. Average accuracy over 5-folds: 0.7232
+
+Used PIS top 697 features. Average accuracy over 5-folds: 0.7157
+
+Used 697 random features. Average accuracy over 5-folds: 0.7232
+
+Used PIS top 698 features. Average accuracy over 5-folds: 0.7307
+
+Used 698 random features. Average accuracy over 5-folds: 0.7307
+
+Used PIS top 699 features. Average accuracy over 5-folds: 0.7270
+
+Used 699 random features. Average accuracy over 5-folds: 0.7157
+
+Used PIS top 700 features. Average accuracy over 5-folds: 0.7288
+
+Used 700 random features. Average accuracy over 5-folds: 0.7138
+
+Used PIS top 701 features. Average accuracy over 5-folds: 0.7307
+
+Used 701 random features. Average accuracy over 5-folds: 0.7250
+
+Used PIS top 702 features. Average accuracy over 5-folds: 0.7344
+
+Used 702 random features. Average accuracy over 5-folds: 0.7194
+
+Used PIS top 703 features. Average accuracy over 5-folds: 0.7326
+
+Used 703 random features. Average accuracy over 5-folds: 0.7213
+
+Used PIS top 704 features. Average accuracy over 5-folds: 0.7363
+
+Used 704 random features. Average accuracy over 5-folds: 0.7176
+
+Used PIS top 705 features. Average accuracy over 5-folds: 0.7288
+
+Used 705 random features. Average accuracy over 5-folds: 0.7269
+
+Used PIS top 706 features. Average accuracy over 5-folds: 0.7213
+
+Used 706 random features. Average accuracy over 5-folds: 0.7175
+
+Used PIS top 707 features. Average accuracy over 5-folds: 0.7288
+
+Used 707 random features. Average accuracy over 5-folds: 0.7401
+
+Used PIS top 708 features. Average accuracy over 5-folds: 0.7194
+
+Used 708 random features. Average accuracy over 5-folds: 0.7251
+
+Used PIS top 709 features. Average accuracy over 5-folds: 0.7288
+
+Used 709 random features. Average accuracy over 5-folds: 0.7288
+
+Used PIS top 710 features. Average accuracy over 5-folds: 0.7364
+
+Used 710 random features. Average accuracy over 5-folds: 0.7157
+
+Used PIS top 711 features. Average accuracy over 5-folds: 0.7307
+
+Used 711 random features. Average accuracy over 5-folds: 0.7251
+
+Used PIS top 712 features. Average accuracy over 5-folds: 0.7420
+
+Used 712 random features. Average accuracy over 5-folds: 0.7306
+
+Used PIS top 713 features. Average accuracy over 5-folds: 0.7289
+
+Used 713 random features. Average accuracy over 5-folds: 0.7213
+
+Used PIS top 714 features. Average accuracy over 5-folds: 0.7326
+
+Used 714 random features. Average accuracy over 5-folds: 0.7232
+
+Used PIS top 715 features. Average accuracy over 5-folds: 0.7307
+
+Used 715 random features. Average accuracy over 5-folds: 0.7288
+
+Used PIS top 716 features. Average accuracy over 5-folds: 0.7270
+
+Used 716 random features. Average accuracy over 5-folds: 0.7364
+
+Used PIS top 717 features. Average accuracy over 5-folds: 0.7345
+
+Used 717 random features. Average accuracy over 5-folds: 0.7175
+
+Used PIS top 718 features. Average accuracy over 5-folds: 0.7326
+
+Used 718 random features. Average accuracy over 5-folds: 0.7269
+
+Used PIS top 719 features. Average accuracy over 5-folds: 0.7364
+
+Used 719 random features. Average accuracy over 5-folds: 0.7307
+
+Used PIS top 720 features. Average accuracy over 5-folds: 0.7307
+
+Used 720 random features. Average accuracy over 5-folds: 0.7345
+
+Used PIS top 721 features. Average accuracy over 5-folds: 0.7251
+
+Used 721 random features. Average accuracy over 5-folds: 0.7326
+
+Used PIS top 722 features. Average accuracy over 5-folds: 0.7251
+
+Used 722 random features. Average accuracy over 5-folds: 0.7326
+
+Used PIS top 723 features. Average accuracy over 5-folds: 0.7288
+
+Used 723 random features. Average accuracy over 5-folds: 0.7175
+
+Used PIS top 724 features. Average accuracy over 5-folds: 0.7307
+
+Used 724 random features. Average accuracy over 5-folds: 0.7232
+
+Used PIS top 725 features. Average accuracy over 5-folds: 0.7288
+
+Used 725 random features. Average accuracy over 5-folds: 0.7288
+
+Used PIS top 726 features. Average accuracy over 5-folds: 0.7251
+
+Used 726 random features. Average accuracy over 5-folds: 0.7270
+
+Used PIS top 727 features. Average accuracy over 5-folds: 0.7213
+
+Used 727 random features. Average accuracy over 5-folds: 0.7288
+
+Used PIS top 728 features. Average accuracy over 5-folds: 0.7270
+
+Used 728 random features. Average accuracy over 5-folds: 0.7232
+
+Used PIS top 729 features. Average accuracy over 5-folds: 0.7326
+
+Used 729 random features. Average accuracy over 5-folds: 0.7269
+
+Used PIS top 730 features. Average accuracy over 5-folds: 0.7307
+
+Used 730 random features. Average accuracy over 5-folds: 0.7307
+
+Used PIS top 731 features. Average accuracy over 5-folds: 0.7438
+
+Used 731 random features. Average accuracy over 5-folds: 0.7344
+
+Used PIS top 732 features. Average accuracy over 5-folds: 0.7326
+
+Used 732 random features. Average accuracy over 5-folds: 0.7269
+
+Used PIS top 733 features. Average accuracy over 5-folds: 0.7213
+
+Used 733 random features. Average accuracy over 5-folds: 0.7251
+
+Used PIS top 734 features. Average accuracy over 5-folds: 0.7250
+
+Used 734 random features. Average accuracy over 5-folds: 0.7251
+
+Used PIS top 735 features. Average accuracy over 5-folds: 0.7194
+
+Used 735 random features. Average accuracy over 5-folds: 0.7420
+
+Used PIS top 736 features. Average accuracy over 5-folds: 0.7382
+
+Used 736 random features. Average accuracy over 5-folds: 0.7270
+
+Used PIS top 737 features. Average accuracy over 5-folds: 0.7251
+
+Used 737 random features. Average accuracy over 5-folds: 0.7363
+
+Used PIS top 738 features. Average accuracy over 5-folds: 0.7250
+
+Used 738 random features. Average accuracy over 5-folds: 0.7213
+
+Used PIS top 739 features. Average accuracy over 5-folds: 0.7251
+
+Used 739 random features. Average accuracy over 5-folds: 0.7232
+
+Used PIS top 740 features. Average accuracy over 5-folds: 0.7307
+
+Used 740 random features. Average accuracy over 5-folds: 0.7251
+
+Used PIS top 741 features. Average accuracy over 5-folds: 0.7364
+
+Used 741 random features. Average accuracy over 5-folds: 0.7288
+
+Used PIS top 742 features. Average accuracy over 5-folds: 0.7213
+
+Used 742 random features. Average accuracy over 5-folds: 0.7250
+
+Used PIS top 743 features. Average accuracy over 5-folds: 0.7232
+
+Used 743 random features. Average accuracy over 5-folds: 0.7269
+
+Used PIS top 744 features. Average accuracy over 5-folds: 0.7213
+
+Used 744 random features. Average accuracy over 5-folds: 0.7326
+
+Used PIS top 745 features. Average accuracy over 5-folds: 0.7251
+
+Used 745 random features. Average accuracy over 5-folds: 0.7269
+
+Used PIS top 746 features. Average accuracy over 5-folds: 0.7194
+
+Used 746 random features. Average accuracy over 5-folds: 0.7307
+
+Used PIS top 747 features. Average accuracy over 5-folds: 0.7326
+
+Used 747 random features. Average accuracy over 5-folds: 0.7250
+
+Used PIS top 748 features. Average accuracy over 5-folds: 0.7307
+
+Used 748 random features. Average accuracy over 5-folds: 0.7288
+
+Used PIS top 749 features. Average accuracy over 5-folds: 0.7345
+
+Used 749 random features. Average accuracy over 5-folds: 0.7157
+
+Used PIS top 750 features. Average accuracy over 5-folds: 0.7326
+
+Used 750 random features. Average accuracy over 5-folds: 0.7326
+
+Used PIS top 751 features. Average accuracy over 5-folds: 0.7269
+
+Used 751 random features. Average accuracy over 5-folds: 0.7326
+
+Used PIS top 752 features. Average accuracy over 5-folds: 0.7345
+
+Used 752 random features. Average accuracy over 5-folds: 0.7250
+
+Used PIS top 753 features. Average accuracy over 5-folds: 0.7307
+
+Used 753 random features. Average accuracy over 5-folds: 0.7326
+
+Used PIS top 754 features. Average accuracy over 5-folds: 0.7288
+
+Used 754 random features. Average accuracy over 5-folds: 0.7213
+
+Used PIS top 755 features. Average accuracy over 5-folds: 0.7345
+
+Used 755 random features. Average accuracy over 5-folds: 0.7288
+
+Used PIS top 756 features. Average accuracy over 5-folds: 0.7382
+
+Used 756 random features. Average accuracy over 5-folds: 0.7270
+
+Used PIS top 757 features. Average accuracy over 5-folds: 0.7326
+
+Used 757 random features. Average accuracy over 5-folds: 0.7307
+
+Used PIS top 758 features. Average accuracy over 5-folds: 0.7232
+
+Used 758 random features. Average accuracy over 5-folds: 0.7119
+
+Used PIS top 759 features. Average accuracy over 5-folds: 0.7439
+
+Used 759 random features. Average accuracy over 5-folds: 0.7288
+
+Used PIS top 760 features. Average accuracy over 5-folds: 0.7326
+
+Used 760 random features. Average accuracy over 5-folds: 0.7251
+
+Used PIS top 761 features. Average accuracy over 5-folds: 0.7157
+
+Used 761 random features. Average accuracy over 5-folds: 0.7250
+
+Used PIS top 762 features. Average accuracy over 5-folds: 0.7364
+
+Used 762 random features. Average accuracy over 5-folds: 0.7288
+
+Used PIS top 763 features. Average accuracy over 5-folds: 0.7307
+
+Used 763 random features. Average accuracy over 5-folds: 0.7250
+
+Used PIS top 764 features. Average accuracy over 5-folds: 0.7288
+
+Used 764 random features. Average accuracy over 5-folds: 0.7156
+
+Used PIS top 765 features. Average accuracy over 5-folds: 0.7194
+
+Used 765 random features. Average accuracy over 5-folds: 0.7364
+
+Used PIS top 766 features. Average accuracy over 5-folds: 0.7232
+
+Used 766 random features. Average accuracy over 5-folds: 0.7250
+
+Used PIS top 767 features. Average accuracy over 5-folds: 0.7288
+
+Used 767 random features. Average accuracy over 5-folds: 0.7288
+
+Used PIS top 768 features. Average accuracy over 5-folds: 0.7288
+
+Used 768 random features. Average accuracy over 5-folds: 0.7270
+
+Used PIS top 769 features. Average accuracy over 5-folds: 0.7383
+
+Used 769 random features. Average accuracy over 5-folds: 0.7307
+
+Used PIS top 770 features. Average accuracy over 5-folds: 0.7194
+
+Used 770 random features. Average accuracy over 5-folds: 0.7269
+
+Used PIS top 771 features. Average accuracy over 5-folds: 0.7288
+
+Used 771 random features. Average accuracy over 5-folds: 0.7364
+
+Used PIS top 772 features. Average accuracy over 5-folds: 0.7345
+
+Used 772 random features. Average accuracy over 5-folds: 0.7250
+
+Used PIS top 773 features. Average accuracy over 5-folds: 0.7364
+
+Used 773 random features. Average accuracy over 5-folds: 0.7251
+
+Used PIS top 774 features. Average accuracy over 5-folds: 0.7307
+
+Used 774 random features. Average accuracy over 5-folds: 0.7250
+
+Used PIS top 775 features. Average accuracy over 5-folds: 0.7382
+
+Used 775 random features. Average accuracy over 5-folds: 0.7307
+
+Used PIS top 776 features. Average accuracy over 5-folds: 0.7288
+
+Used 776 random features. Average accuracy over 5-folds: 0.7288
+
+Used PIS top 777 features. Average accuracy over 5-folds: 0.7288
+
+Used 777 random features. Average accuracy over 5-folds: 0.7307
+
+Used PIS top 778 features. Average accuracy over 5-folds: 0.7270
+
+Used 778 random features. Average accuracy over 5-folds: 0.7382
+
+Used PIS top 779 features. Average accuracy over 5-folds: 0.7251
+
+Used 779 random features. Average accuracy over 5-folds: 0.7194
+
+Used PIS top 780 features. Average accuracy over 5-folds: 0.7251
+
+Used 780 random features. Average accuracy over 5-folds: 0.7232
+
+Used PIS top 781 features. Average accuracy over 5-folds: 0.7232
+
+Used 781 random features. Average accuracy over 5-folds: 0.7270
