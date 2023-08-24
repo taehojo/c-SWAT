@@ -93,7 +93,7 @@ avg_tpr_least = np.mean(np.array(least_significant_metrics[2]), axis=0)
 avg_auc_least = auc(avg_fpr_least, avg_tpr_least)  
 
 axes[0].plot(avg_fpr_top, avg_tpr_top, label=f"Top Features (AUC = {avg_auc_top:.3f})", color="blue")
-axes[0].plot(avg_fpr_least, avg_tpr_least, label=f"Least Significant Features (AUC = {avg_auc_least:.3f})", color="red", linestyle='--')
+axes[0].plot(avg_fpr_least, avg_tpr_least, label=f"Least Associated Features (AUC = {avg_auc_least:.3f})", color="red", linestyle='--')
 
 axes[0].set_xlabel('False Positive Rate')
 axes[0].set_ylabel('True Positive Rate')
@@ -107,7 +107,7 @@ axes[1].plot(avg_recall_top, avg_precision_top, label=f"Top Features", color="bl
 
 avg_recall_least = fixed_recall_grid  
 avg_precision_least = np.mean(np.array(least_significant_metrics[3]), axis=0)
-axes[1].plot(avg_recall_least, avg_precision_least, label=f"Least Significant Features", color="red", linestyle='--')
+axes[1].plot(avg_recall_least, avg_precision_least, label=f"Least Associated Features", color="red", linestyle='--')
 
 axes[1].set_xlabel('Recall')
 axes[1].set_ylabel('Precision')
@@ -121,4 +121,4 @@ plt.savefig(f'png/top_features_{top_features_count}_auc_top_{avg_auc_top:.4f}_au
 plt.close()
 
 print(f"Top {top_features_count} Features AUC: {avg_auc_top:.4f}")
-print(f"Least Significant {top_features_count} Features AUC: {avg_auc_least:.4f}")
+print(f"Least Associated {top_features_count} Features AUC: {avg_auc_least:.4f}")
