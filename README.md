@@ -22,8 +22,8 @@ For questions or support, please contact [tjo(at)iu.edu].
 
 :bookmark: **c-SWAT citation:**
 
-> (Currently under review)
+> Jo, Taeho, et al. "Circular-SWAT for deep learning based diagnostic classification of Alzheimer’s disease: Application to metabolome data." eBioMedicine (accepted, 2023)
 
 :bookmark: **Example of SWAT application:**
 
-> Jo, Taeho, et al. "Deep learning-based identification of genetic variants: application to Alzheimer’s disease classification." Briefings in Bioinformatics 23.2 (2022)
+> Jo, Taeho, et al. "Deep learning-based identification of genetic variants: application to Alzheimer’s disease classification." Briefings in Bioinformatics (2022)
